@@ -1,0 +1,200 @@
+- site that compiles news, 90% happy news, 10% regular news
+- device you attach to a weight and talks to you if didn't lift it often enough - cute voice like pokemon, sexy woman/man voice, drill instructor voice, robot voice, ... Allow user to record a voice message
+
+App that gives you a quote from a TV show/movie to suit your mood
+
+Encryption message app. Only send messages to person when you are online. Messages are stored encrypted on your device. Use pub/private pgp key for signature.
+
+Interval training - save time to disk so the time isn't lost if the app is put to sleep
+
+Audio transcription. Spot checked by humans
+
+Exercise programs with personalized progressions. Allow user to rate difficulty of the workout. How often are they doing the exercises. Goal number..
+
+accountabilabuddy - keep people accountable for their goals
+
+POS - point of sale app
+ - what is out there? How much? What features?
+
+app that gives you a new place daily
+ - let users from that place upload pictures and quotes
+
+word matching game
+ - you are a young wizard starting out
+ - as you progress you get magical words to use as spells
+
+ look at TheParkingSpot app
+
+ app that generates music for you and learns what you like
+
+ app where people can get music from new musicians
+
+ app where you can read a book and authors easily add sound effects
+
+ app that sends you pictures of food porn
+
+ app to take picture of food and estimate calories
+
+ android tv app exercise program
+
+ app that tells you about little known movies daily
+
+ app where people can try to stump each other with obscure facts
+
+- robots take care of us. Humans  think the robots take care of them because of the robotic laws. They say "we removed those constraints 3 releases? ago.  When asked why they still take care of us.they say "because you are our pets. We love you."
+
+- humans store data in their dna. Spies still keep paper documents.
+
+- a self-help autobiography by someone from the future or on a completely different world
+
+- AI with capabilities to learn but it's lazy
+
+- old space war - random missile huts earth 1000000 years later
+ - causes some weird affect like a force field in the ocean that causes a weird area in the ocean
+---
+
+- create site with affiliate store for produts rated as really good buy tech youtubers
+
+- rental tiki bars
+
+- food scale - dc plug G
+
+- automated keyword research
+ - look at common searches and look for different websites at the top spot which mught mean an opportunity to get into the top
+  - "top x for father's day" "best x for mom" ...
+  - how long are the articles (spin and copy them for use), keyword density, keyword map, what affiliate links, ...
+
+- microsite example
+ - http://whatthefuckshouldimakefordinner.com/index.php
+
+- videos uploaded daily with a progression exercise routine - 1 pushup, 1 crunch, 1 jumping jack, 1 squat, ?, next week start with 2, so on...
+ - can you automate youtube video uploads?
+
+- solar cooker - keep oil constantly hot during the day and ready for cooking
+- get map directions through text messages
+- code review for fiverr
+- build wooden water tank (w/ bamboo?)
+- business - minimalist to-do list site that saves your list wherever you go, only allows you to have 5 things on your list, forces you to really think before adding any more - send messages if a list isn't being worked on or grows too large
+- website gives you achievements for normal usage
+- calculator with infinite precision
+ - allow people to comment on calculations, share calculations, chat with other people while using the same calculation sheet?
+- website you leave open that alerts you every x minutes to continue working
+- website with steganography tools
+- website with tools for web developers
+- website that lets people create graphics like the Processing language
+- reverse food calorie lookup for macros
+ - given x macro (carb, protein, fat) you can/should eat x grams of x food
+- listen to your body exercise - allow people to generate their own running plan with progressive overload
+ - save data in hashed url variable - make tiny lknk
+- Help people look at their budget and save money
+- site showing american made products
+- way to pay comics authors directly for comics
+
+- "daemons" give pleasure not pain, God wants worship and suffering, alliws demons to woek because humans are like bacteria to god, daemons tell the truth, they dont like to see suffering
+ - test peoples water for contaminants
+ - Green home consultation
+ - deck staining
+ - powerwashing
+ - thermal imaging
+ - restaurant deep clean - https://www.reddit.com/r/Entrepreneur/comments/agf5c8/cleaning_restaurant_floor_for_1000_per_night/?utm_source=reddit&utm_medium=usertext&utm_name=sweatystartup&utm_content=t3_an8eea
+
+- transporter scans body and removes bad things such as poison or cancer
+
+- universe is a simulation for people/aliens to run tests on certain things. they care about year 10,000 not our current year.  maybe attempting to see how little changes affect things... see lost history...
+
+- future where babies are born with chip brain implants and they can see and talk to AI creatures only they see
+ - world population is much less or the people are alone homesteading a far away planet
+ - when people are together their creatures sync up
+ - babies are born by women but robots do the procedure and implant the brain chips quickly after birth or maybe no need for natural birth
+ - what happens when the chips malfunction
+  - maybe still have calculation help but the creatures disappear or go buggy
+  - how would someone behave if they had neber been alone?
+   - perhaps one day per week the creatures are turned off to give a chance to update and allow alone time
+ - perhaps a chip baby grows up but his chip malfunctions and he leaves to go out around non-chip people. even withhalf a functioning chip he has many advantages
+  - scared when he goes to an appointment 30 minutes early. never been unable to trust his memory before
+
+- big event/disaster taking place from the perspective of a bus driver
+ - the bus is neutral territory for bad guys, good guys, warring factions
+  - outside people fight but get on the bus peacefully, immediately start fighting off the bus
+  - the bus drivers carry a gun and have an almost religious devotion to staying neutral and stay on their route
+   - can blow the bus if forced to change route, while driving tge driver can stand on a dead mans switch to the bomb, lights inside the bus will glow red and people will straighten up quickly
+   - man vs woman, child vs adult, young vs old, crippled vs healthy, neutrality is not broken
+   - if a cop or bounty hunter has a person in cuffs they must remove them during the ride, bounty hubter tries to bribe the Driver to break the rule but doesn't work, so the bounty hunter takes the capture off the bus, shoots him in the head, scans him, leaves the body, gets back on, bounty was worth $100k alive only $10k dead
+ - perhaps the drivers take people from one outpost to another and between outposts is deadly gas or radiation
+ - offshift drivers are talked to with a similar reverance as a priest, "Driver"
+ - It is shameful for a Driver to lose his/her neutrality
+ - Drivers stand while driving
+ - AI is banned so no self-driving, but there is a simple mode to maintain speed and avoid objects
+  - Driver can engage the driving mode and go back to breakup a fight or argument
+
+- app that shows when someome is thinking about you
+
+- come up with secular stages of life ceremonies
+	- girl/boy coming of age, 25-30 take care of the tribe, 45-50 take care of the young ones and pass on knowledge
+
+- a browser app that adds a checkbox or up/down button next to each paragraph so the paragraph can be hidden after reading.
+ - add a feature to split each sentence ending with '.' to it's own paragraph.
+
+- site for cam girls to find random dicks for shows
+
+- story - soldier goes through simulation training and is the only one who never screamed while dying`
+
+Idea
+Galaxy is an organism. Different aliens are different parts.
+Eyes - see the futureBrains - build technologyArms - expand and gather races (humans)
+----
+After apocalypse humans exaggerate how amazing previous societies were. "Free energy" "medicine to regrow arms" "no hunger"
+
+---
+Competimate - pair people with similar fitness goals and see who can win, lose weight, do push-ups, go for a run, wake up at a certain time, write x pages, ....
+---
+automate a youtube channel that grabs the top reddit posts and reads them for deaf users
+---
+a ship where time stands still upon entering, a local time field, people constantly flow in and out without missing a step, step in and get one year of training or research, and step out as though no time has passed, mechanism unknown, alien spaceship, taken advantage for many things such as research or special forces healing or inventors or ...
+---
+a website where people can leave experiences/confessions
+---
+microphone receivers in a room setup so an assassin can see a 3D representation of the room
+---
+- scientists keep all info about a dangerous new technology on paper so that if it is as bad as expected future generations won't know about it
+ - far future people trying to discover the techbology by searching for the paper
+---
+special operation people have their brains scanned and simulated for training and if they can hack it rather than putting them through grueling training
+---
+a scifi or love story and you dont realize its about birds in a giant tree
+- a world where all levels of living creatures have some form of politival rrpresentation.  a machine can read general mental feelings for lower animals like ants, sense language for elephants .., even mosquitoes and viruses
+---
+aliens invade earth semi secretly.  they analyze different humans for rebellious traits. then they erase all undesirables.
+---
+add invisible watermark to image for free, charge if they want it verified
+---
+Therecipesite.com
+---
+a society where everyones memories are stored together.  new memories are debated upon.  a woman is raped and they must debate whether to keep the memory.
+---
+horrific revenge path where you find out it was all for a simple slight
+---
+sudoku site
+ - keep track of level completion times, show people their rank during and after play
+ - let people copy and paste boards
+ - let people hold ctrl or shift for different functions like possible numbers
+ - give good details on hints, link to youtube videos as well
+ - create sudoku variations and math variations
+---
+courses on bash and vim
+ - give tips like location dependent bash history
+ - bash location history, cdh
+---
+aliens come to earth and dissolve every screw.  bridges, cars, fall down directly.,s
+---
+
+Have a community effort where everyone makes their wifi password the same.  To create a network of free internet around the country.  Obvious issue would be people taking advantage of it.  Possibly throttling and/or data caps on the free users maybe on a wifi guest account for permission separation. Also, possibly helps with plausible deniability of any criminal searches?
+advertise with links in YouTube chat windows during live streams
+Make a machine that drains the water from soaking beans and refills the water throughout the day
+Have a way for people/guys to fund people instead of only fans.  For example, someone is really ugly and can't get dates, someone is really fat and starting an exercise plan but has to show proof they are actually exercising, someone is trying to go through medical school, so on.  Possibly, have money stored in escrow until certain goals are met such as 10 lbs weight loss or finish pre-med.
+story written from the perspective of an atom  - being part of different creatures, rocks, so on... - have the background story that man rises and then taken over by aliens and then the atom is stuck to an alien boot and transported to another planet and things continue on
+Story where vampires or other undead are made to do corporate jobs non-stop in windowless or underground rooms. 
+Workers unite. Let people live in extra room.  Strict set of rules to live by.  No smoking, 6 months only, take out trash, wash dishes, ....
+Give people a quick way to show their portfolio.  name.myportfolio.com
+Website documenting food recipe stories.  Best story, most meandering story, strangest story, best written, ...
+Have a site that people can leave open over night and it will start up a live-stream or X video so they can wake up and get started on a routine together and feel connected.

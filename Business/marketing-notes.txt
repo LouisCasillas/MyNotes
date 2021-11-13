@@ -1,0 +1,103 @@
+# Ways to increase conversions
+  - Pop-ups
+  	- Types
+		- Delayed pop-ups
+			- Only pop up after a user spends X amount of time on the site
+			- 30-60 seconds or the user has scrolled through 70-75% of the page
+		- Pushdown/Pushup pop-ups
+			- Whole page pop-ups that push the content out of the field of view of the user
+		- Entry pop-ups
+			- Appear immediately when a user visits the site
+			- Can lead to reduced conversions and lowered return rate if done incorrectly
+		- Exit intent pop-ups
+			- Appears when a user tries to leave the site
+			- Get user attention with last minute deals, promos, and discounts
+		- Sign-up forms
+			- Pop-up encouraging users to subscribe and get some kind of free resource such as a white paper, e-books, software/app, or others
+	- Make them pleasing to the eye with seasonal colors
+	- Slide out from the side of the screen and have a little noise or shake to bring attention to them
+	- Provide something of value right away
+	- One pop-up per unique visitor
+	- Ensure a clear CTA (Call to action)
+  - Compelling video
+  	- Users are 144% more likely to buy after watching a video
+  - Facebook
+  	- Talk to your community
+		- Answer questions and direct your audience
+	- Create groups
+		- Create a Facebook group with loyal fans
+	- Pixel power
+		- Add Facebook code to your site to get better user tracking
+  - User interactive e-mail content
+  	- Have something a user can interact with in the e-mail such as a quiz. a calculator, a limited offer discount code, other other freebie when they purchase, customer surveys, ...
+  - Create a live chat bot
+  	- Have someone 24/7 ready to answer customer questions, increases conversons by 20%
+  - Release an e-commerce app
+  	- Users abandon their mobile app cart only 20% versus 68% for desktop and 97% for mobile sites
+  - Turn customers into brand ambassadors
+  	- Start a brand ambassador program and consistently deliver high-quality products and services to them
+	- Offer freebies or service upgrades, make them feel like they are valued and part of your brand.
+	- Ask them for comments and feedback and share exclusive offers to them.
+  - Make sure ads match the landing page
+  	- Make sure the ads have the same style (colors, font, design, tone of voice) and wording as the landing page the ad is sending the user to
+  - Have a clear value poposition
+  	- Immediately tells users why they need what you are selling and should have a sense of urgency behind it
+  - Create content that suits the specific audience
+  	- For example, if selling to doctors refer to their patients not customers or clients
+  - Have a captivating headline
+  	- Use numbers, year/time, num. of steps, statistics, odd numbers tend to perform better, use numbers not English words
+ 	- Use a cliffhanger, leave out a key detail, replace one informative keyword with "this" or "that"
+	- Use a question
+	- Use "How to" and "Why" headlines
+  	- Keep titles short so Google doesn't change them
+  		- Keep title tags under 600 pixels - https://smartsearchmarketing.com/google-title-tag-serp-preview-tool
+	- Use keywords
+		- Check the Google Search Console to determine the highest clickthrough keywords and adjust as necessary
+  - Post reviews and testimonials for credibility, use social proof
+  	- Review sites for Business to Customer (B2C):
+		- Google reviews
+		- Amazon customer reviews
+		- Yelp
+		- Angie's List
+		- TripAdvisor
+	- Review sites for Business to Business (B2B):
+		- TrustRadius
+		- G2 Crowd
+		- Salesforce AppExchange
+	- Reach out to "influencers" to review the product
+  - Add trust badges to your site
+  	- Contact information, contact page, e-mail, phone number, live chat, ...
+	- Social profiles, Facebook, LinkedIn, Twitter, Instagram, ...
+	- Payment assurances, payment methods, trust badges, certifications, SSL
+  - Be transparent
+  	- Don't use absolute words such as "The Best"
+  - Create CTA that cause action
+  	- Create CTA buttons and use split testing for details such as button placement, color, and wording
+	- Think about the length of the buying cycle, will it take a month to get someone to buya $2k course?  Then CTA should give them something free or a demo and establish the relationship
+	  - Use active voice and power words.  Prey on emotion.
+	  	- Fear, encouragement, lust, anger, greed, safety, forbidden
+			- Avoid cliche power words such as as: Amazing, Ultimate, Powerful
+  - Visual appeal is important
+  	- Red — aggressive, urgent, passionate
+  	- Orange — energetic, playful, affordable
+  	- Yellow — friendly, happy, attentive
+  	- Green — growing, prosperous, natural
+  	- Blue — trustworthy, inviting, calming
+  	- Purple — luxurious, royal, sensual
+  	- Black — sophisticated, edgy, mysterious
+  	- White — clean, innocent, healthy
+  	- Gray — formal, gloomy, traditional
+  	- Pink — youthful, feminine, romantic
+  	- Brown — rustic, stable, manly
+  - Use high-quality images
+  	- Avoid impersonal stock images
+	- Take advantage of screenshots, charts, graphs, and infographics
+  - Do not force the customer to create an account
+  - Optimize for on-SERP (on Search Engine Results Page) SEO (Search Engine Optimization)
+  	- For example, consider adding 7+ items because Google often shows the first 5-7 bullet points on the result page and the user should have to click 'More items...'
+	- Google sometimes removes articles from the results page that are too long
+	- Entice the user to click through to your site by saying something like 'Tip #1 Not what you think it is'
+        - Have a FAQ (Frequency Asked Questons) page and make sure it is properly marked up
+		- A FAQ might backfire if you are already the number one Google result for a query
+  - Check Google Ads Quality Score
+  	- Check to make sure your content matches your ads or that your content matches well with your targeted keywords

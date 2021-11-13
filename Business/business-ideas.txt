@@ -1,0 +1,213 @@
+Business ideas:
+
+- site ideas:
+ - http://www.markammay.com/100-creative-ideas-for-a-website/
+
+- metal business cards
+ - https://www.aliexpress.com/item/100Pcs-Black-Silver-Alumium-Alloy-Card-Laser-Engraved-Metal-Business-Visiting-Name-Cards-Blanks-0-22mm/32859164010.html?spm=a2g0o.productlist.0.0.47b73d8eZquLtR&algo_pvid=b002698b-b537-4e93-a82d-5b3ac9dd0d7a&algo_expid=b002698b-b537-4e93-a82d-5b3ac9dd0d7a-1&btsid=e2ccb75d-ee07-47ae-af5d-927558cfb039&ws_ab_test=searchweb0_0,searchweb201602_1,searchweb201603_52
+
+- public open source version of doordash/uber/any service
+
+- look for aliexpress reviews that mention bad manual translation and offer to review and fix the English
+ - charge 5x one item?
+
+- news website with stories of an imaginary world
+
+- poll system
+ - using AWS
+- monthly magazine
+ - give limited version free, business and pro version cost money
+  - create plugins for various systems
+- good habits site
+ - For each good habit talk about why it's beneficial
+ - Have links to many products to help with the habit
+ 
+- idea
+ - Training for the normal dude
+  - instead of starting with "5,000 pullups" start with 1 and progress over time with the people
+   - Pushup, squats, crunches, other?
+ 
+- mgtowvacations.com
+- mgtowmeetups.com
+
+- website randomizer
+ - given website with css, js, articles
+ - spin a new website
+  - change css ids, javascript function names, change spacing, code locations, images (name, compression, size), ad placement, e-mail, affiliate account, google stats account, ... so on
+
+- chatbots?
+ - create chatbots with AI to talk to site users and get potential leads
+ - show different people's faces so it seems like there's a real person
+
+- write adventure book like fighting fantasy
+ - incorporate exercises and/or real world activities
+  - "You suddenly see the body begin to move.  Fear strikes your heart.  Do x pushups."
+ - could be a pc game
+  - top screen showing stats and current setting/monster, bottom screen showing the map  
+- a game where you have to figure out clues to a mystery through newspaper scraps
+
+- setup bots that search social media for free giveaways and enter the contests
+ - terms
+  - "chance to win"
+  - "give away" or "giveaway"
+  - "contest"
+ - perhaps sell the list for $5 to users
+  - can use Amazon Cognito for end user-based access control
+  - give some smaller contests away for free as teaser
+   - tweet daily sponsored contest
+    - "xyz but 110 contests for pro users at only $5 a month"
+  - get their e-mail address and notify them of brand new contests and contests over soon
+  
+ - sell a spot to creators
+  - get statistics from before and after a creator is featured showing how much the site improves their reach
+ - possible architecture
+  - Twitter/Youtube/??? -> Amazon Kinesis -> Lambda -> DynamoDB -> website
+ 
+- notify people when items in a certain field or hobby are on sale
+ - create an email list
+ - create a bot to scan certain items and look for new items
+ - let users get an email once per day or week
+ - only if item is below x% of historical average
+
+- aliexpress
+ - ask stores if they want me to check their English
+ 
+- system where people text other people to keep accountability
+
+- game where you are the blacksmith in an rpg game
+ - you have to work hard to increase your ability and also manage prices
+  - if you charge too much the heroes won't be able to buy the best weapons and armor and using ai their battles will be simulated and the heros could get hurt or die
+   
+   - as you level up the heroes will face stronger and more dangerous enemies.  if they face a big boss and die or run away then that are of the world will be taken over by the boss and certain resources found only in that area will become very expensive or impossible to find.
+ - you have to send for resources and it will take x number of days
+  - at low level if heroes can't defeat low level enemies such as "wolf pack" your merchants will get attacked and either get hurt and need time to rest when they return or will lose xx amount of items or be killed completely
+  
+- park ads on urls that are simply misspellings one might miss-type on a mobile phone keyboard such as being one row to the left or right
+
+- card game where you keep track of your activity and imagine your daily life as if you are an RPG character
+ - "Travel to Wesnoth.  Go walk for 5,000 steps (2 miles)"
+ - "You're running low on rations.  Make an effort to eat a smaller dinner.  Let your body use your extra fat for energy and focus on the quest."
+ 
+- a program where people pledge a certain amount of money per week and if they don't exercise enough their money goes into a big pot and people who did exercise enough that week get a chance to win the pot
+ - take 10% of the weekly pot
+ - allow each person 7 possible entries for each day of the week they meet their exercise goals
+ 
+- website
+ - how to keep your wifi safe from hackers
+ - tool to test password strength
+ - tips
+ - good wifi routers to buy
+ 
+- Tools
+ - Engineering specific calculators
+ - Water/Wastewater Operator calculators
+ - Surveying calculators
+ - Tools to help teacher coome up with lesson plans quickly, generate math tests, ...
+ 
+- review website
+ - keep product info in DynamoDB and run a daily lambda that compares prices and updates the site if that product has drastically reduced it's price
+ - lambda function that takes users IP and sends them to their country online store
+ 
+- have a mobile app that plays sounds and music while someone is reading a book
+
+
+- create site with affiliate store for produts rated as really good by tech youtubers
+
+- rental tiki bars
+
+- automated keyword research
+ - look at common searches and gather data for different websites at the top spots
+  - "top x for father's day" "best x for mom" ...
+  - how long are the articles (spin and copy them for use), keyword density, keyword map, what affiliate links, ...
+
+- website with grammar and word usage quizzes with articles/paragraphs detailing why the right answer is correct
+ - zip quizzes and store on the page and make the pages entirely self-contained and usable offline
+ - link to my editing website
+
+- website with gambling games that are affiliates to online casinos
+
+- sudoku website similar to
+ - https://www.youtube.com/redirect?q=https%3A%2F%2Fcracking-the-cryptic.web.app%2Fsudoku%2FNP224HdrF4&v=yDp6mrgRpoI&redir_token=g0-cCkg3O-bWgiqTFu_V6lEQhb18MTU5MjM2MzQ0N0AxNTkyMjc3MDQ3&event=video_description
+  - add
+   - rules
+   - hint button
+   - random button w/ difficulty select
+   - different types of notation
+   - undo, move history
+
+- twitter account that posts the hottest amazon sales, flight sales, price differences between amazon and ebay, market trends for dropshipping
+
+Manage websites for local business
+Amazon Frown - allow people to donate when they aren't feeling happy with the world
+Forum for debates.  Formal and with voting before and after and cited sources.
+Device under car that will drop contents at the push of a button.
+Device in front of cop cars to snag any drug drops.
+Review youtube channels for dead links and spelling errors
+System where piraters or others can donate to a certain corporation or person and they get the payout at the end of the day.
+Find landing pages and look for ways to increase the landing page speed.
+Service that checks for 404 links.
+Very low percentage ad network.
+Link shortener that shows an ad every 5 link uses
+Website that takes a few stats and generates a Google sheet or excel sheet workout plan
+App that allows the user to add their own exercises or use a set of common exercises and then generate a random workout with X number of exercises, allow user to add images and links, allow users to import/export/share exercise databases and workouts
+Program that speaks encrypted message for you.  Like number stations for civilians.
+Some system for guys to support each other not only fans
+System for people who want to join together and live simpler lives.  Insta-families... Setup who makes money, who cooks, so on...
+Sites that show the top women of X
+RPG exercise card game
+Server with nginx that hosts many static sites and each person only has to pay $5/month or similar.
+Linux course for tricks like not using && or grep for process name without using [letter]
+Site where people can leave life decisions up to others.
+YouTube description link checker.  Check for 404 links and maybe incorrect affiliate links.
+How to be a sugar baby - ask daddy to invest in your side business not directly ask for money
+Vision board app that randomly shows a goal throughout the day.  - Website that emails/texts you your goals? ( Have this be paid for?)
+
+ - top X pieces of equipment for beginner, intermediate, beginner
+ - best X for [little kids, boyfriend, girlfriend, moms, dads, disableds, ...] getting into Y
+ - best X for Y holiday
+ - best X to get the edge in Y
+
+- website that says "you may get a 25% discount at checkout"
+- website that says "You have a $50 discount if you purchase now" and have the timer and amount count down
+
+Educational card game. You have to remember and say a foreign word to be able to move forward.
+
+Exercise card game
+
+Idea for game. Underwater diver. You swim under ships and attach bombs to the underside. Men, and items, things fall down once the ship exploded.
+
+Idea for game. You are on a ship shooting at planes dive bombing you.
+
+- ‎look into making money with YouTube, patreon, twitch, so on
+
+- ‎make bath bombs?
+
+- ‎look at top selling Etsy products
+
+- ‎write small books for Amazon?
+
+- ‎can you make money with apps? Are puzzles copywrited?
+
+- service where people pay to get texts
+
+ - idea - game where you have to eat different drugs that give different effects
+
+  - have to be careful of your heart rate bar and/or other effects
+
+-- grow things for extra money - special medicinal mushrooms or truffles... cost analysis
+
+- calculator website - mycalculators.com - every type of calculator possible
+
+-- online interactive fiction site
+
+- Setup automated contest/giveaway search on social media and automated entry
+
+Make hexcells online - any shape up to nano...
+
+Make js string manipulation page, basic Linux tools. Store strings locally on client side and encrypted.
+
+Make android app
+
+JS blog tools? SEO tools? Analyze blog post for info. Look at what others offer.
+
+JS crypto message system. Delete after 24 hours...

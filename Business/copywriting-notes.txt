@@ -1,0 +1,209 @@
+# Copywriting Notes:
+
+## Direct response history and methodology
+ - Two schools of advertising
+  - "Brand awareness advertising" or "General Advertising"
+   - billboards, TV ads, so on
+  - "Direct response"
+   - you respond directly to the advertisement to take advantage of the ad
+    - you must do something now to get the item
+    - easy to track and know if the ads are working
+    - easy to track buyers to build a direct marketing list
+ 
+ - A/B Split Tests
+  - different versions of ads/layouts/material and comparing the success against each other
+   - "Beat the control"
+
+ - best practices
+  - longer sells better
+   - when someone is genuinely interested in a subject they want to read more
+   - more perceived value
+   - it takes time to get someone's attention, address their problems/desires, overcome their objections, make them trust you, get them to buy then and there
+ 
+ - direct response copywriter
+  - "salesman in print"
+  - look for a 2-3% conversion rate - meaning ~97% people don't need to buy to make a campaign be considered successful
+  - 3-7% commission of the campaign, $5-10k for the ad campaign
+  - "Only sell things you believe in... to people who actually want what you're selling."
+
+ - Things you can sell
+  1. Products/Services
+  1. Information/Knowledge
+  1. Beliefs/Ideas
+  1. Entertainment
+
+ - keywords
+  - advertorial
+   - ad made to look like an editorial
+   - at the end asks for an e-mail to gain access to a special presentation or free report
+    - creates a lead
+  - USP
+   - Unique Selling Proposition
+
+ - Influence
+  - From Claude Hopkins
+   - author of "Scientific Advertising"
+    - six principles of influence
+     1. Reciprocity
+      - "I'll scratch your back, if you scratch mine."
+      - "Psychological debt"
+      - "Franklin Effect"
+       - Ask for a favor
+      - How to use:
+       - Provide free incentives
+       - Offer a free video training series if you sign up to join the presentation.
+       - Offer a free gift as a thank-you for considering a donation/purchasing X
+     1. Commitment and Consistency
+     1. Social Proof
+      - "You gotta get this product everyone is talking about it."
+      - "This restaurant has 5 stars!"
+     1. Authority
+      - "Dr. X says you have to use this toothpaste."
+      - "Celebrity X said he got a six-pack using this diet and workout plan."
+     1. Liking
+      - "Difference between someone liking you and not liking you really comes down to whether or not they perceive you to be similar to them in some way."
+      - Use mirroring to match the perspective buyer
+     1. Scarcity/Urgency
+      - "While supplies last!"
+      - "Limited time only!"
+
+ - Sell to people's primal desires
+  - "There is a reason people actually buy and the reason they tell everyone else."
+  - Driven by their lizard-brain
+   - pride, vanity, ... deadly sins
+   - pre-frontal cortex is the new part that makes you conscious and capable of solving problems and logic
+  - Help people imagine what it feels like to achieve their primal desire
+   - let the reader "imagine" social praise and validation
+  - Types of people:
+   1. Ignores their primal desire and try to ignore it or push it away.  They only want to see their self-image as righteous and good.  It is uncomfortable for them to be in a state of "psychic entropy".
+   1. Deeper and more accepting understanding of themselves and their primal desires, but will still never openly admit their primal desires and will often try to rationalize away their primal desires.
+   1. Person who doesn't give a shit what people think of them and their primal desires.
+    - "I want to have sex with beautiful women."
+  - Financial drivers
+   - fear and greed
+    - greed
+     - "easy money with little to no work and lots of it"
+    - fear
+     - "protecting the money you have and not wanting anybody to take it from you"
+    - combination - fear of missing out
+     - "I don't want to miss out on an amazing opportunity"
+     - "Imagine if you got in on the ground-floor of this stock before it explodes over the next few years"
+     - "What if you saw what nobody else could see?  Before Wall Street, CNN, Main Street, ... caught on"
+
+ - Parts of a promotion
+  1. headline - most important
+  	- traditional advice
+	 - make it urgent, unique, ultra-specific
+	 - advertise some huge benefit right off the bat
+	 - famous copywriter John Carlton used the analogy of standing in a crowded, noisy train station
+	  - What would you yell out that would get the attention of your audience?
+	   - Example:
+	    - Attention E-commerce store owners who sell pet products: Here's a simple trick that is guaranteed to boost your sales 1,324% in the next 30 days"
+	     - Most people won't care but the specific group 'Pet store owners' will be very interested
+	     - Call out your prospect, promise them a big benefit, and do it in an urgent, specific, way that's unique to them.
+	- modern advice
+	 - what if your prospects are a little more broad?
+	  Example: "40 year olds who want a six pack!" -> "Anyone over 18 who wants to have a six pack?"
+	 - what if your product has multiple benefits?  which is the most attractive to put in the headline?
+	 - headline is just an expression of an underlying idea
+	  - underlying idea is the same: "How to grow big watermelons" vs "How to grow monster-sized, juicy, sweet watermelons"
+	  - if you change the idea you can change the effectiveness of the headline (and the whole promotion)
+  1. lead - most important
+  1. body
+  1. close
+
+ - Come up with a "Big Idea"
+  - Emotionally appealing primary promise + Unique mechanism = Intellectually interesting appeal
+  - it is a normal idea that may be a little boring and turns it into something exciting, different, and interesting 
+   - The primary promise:
+    - Example: Time Ferriss' "The 4-hour Workweek"
+    - The primary promise is: "Escape 9-5, live anywhere, and join the new rich"
+     - emotionally compelling
+     - intellectually interesting peeks curiosity
+      - "What is the 4-hour workweek?"
+   - unique mechanism - "gimmick"
+    - The package or "delivery system" in which the primary promise is delivered
+    - Example:
+     - A boring hammer next to the same hammer next to a hammer with bright packaging that says "Indestructable Big Bertha"
+  - Process:
+   - Ask "What is my emotionally-compelling primary promise?"
+    - Ask "What is the unique mechanism in which this promise will be delivered?"
+     - do lots of research to find the "unique mechanism"
+  - Examples:
+   - P90X
+    - Failed through 14 different advertising campaigns until they came upon the "unique mechanism" of "muscle confusion"
+   - Vitamin D
+    - Seems boring.  Standard benefits but doesn't really catch attention.
+     - Astronauts must take vitamin D while in space because it's so important for their health.
+      - Unique mechanism: "The Astronaut's vitamin!"
+   - Gold investing
+    - standard investing, kind of boring
+     - found that rich people have always used gold investing in order to hedge against inflation/deflation, market crashes, so on...
+      - called it "secret currency" coveted by the rich throughout history
+   - The Bola Wrap company stock investment
+    - shoots out a thin Kevlar chord that wraps the subject and disables them with zero pain
+     - emotionally compelling primary promise
+      - Make 1,435% (Or more)
+     - unique mechanism
+      - comparison to superhero weapons
+       - "Batman Gun technology"
+        - Bank 1,435% (Or more) on law enforcement's new... "Batman Gun"
+	 - The only truly non-lethal tool for police, military, and security forces that's about to put Taser out of business.
+   - Stock options
+    - sound scary and complicated
+     - unique mechanism - "Bloodbath millionaire system"
+      - Used throughout the promotion to explain how you can make 10-30% gains a week even during "market bloodbaths"
+   - Marijuana stock
+    - Take action before November 8th and watch the... Secret "$50 marijuana stock blueprint"... turn a single $50 bill into a massive fortune"
+     - primary promise: turn $50 into a massive fortune
+     - unique mechanism: the $50 marijuana stock blueprint
+   - Aging medicine
+    - Fountain of youth discovered! Fact of fairytale? Has medical science discovered the magic bullet that reverse the aging process and let you slice twenty years off your current age?
+     - primary promise: slice 20 years off your age
+     - unique mechanism: medical science's new "magic bullet" discovery
+   - Revealed: The Massive anonymouse trades behind every major stock move... "Dark trades" - Here's how to profit from tomorrow's "dark trade" and collect $80,100 in a matter of days...
+     - primary promise: collect $80k, in a matter of days
+     - unique mechanism: "Dark trades"
+
+## Tips
+ - Show don't tell
+  - Turn $500 into $7 million and do it in 12 days
+   - Sounds like bullshit so get attention and then prove it
+
+## How to get better
+ 1. Create a new e-mail address to sign up for sales funnels
+ 1. Click through ads and study them
+ 1. Sort promotions by publisher / company so you can look through them
+  - when a promotion/ad is showing up in multiple locations or an e-mail is being sent multiple times this is a good hint the campaign is successfull. Save to a "swipe" file with all the good ad campaigns.
+  - companies to look at:
+   - Agora Financial
+   - Banyan Hill
+   - Seven Figure Publishing
+   - St. Paul Research
+   - Money Map Press
+   - Oxford Club
+   - Stansberry Research
+   - Motley Fool
+   - swiped.co
+
+## Find contacts
+ - Sign-up for ads and webinars and look for the people behind it and contact them
+
+## Tips
+ - Get an e-mail tracker
+  - example: bananatag
+
+ - keywords
+  - squeeze page
+  - campaign
+  - webinar
+  - pre-sale page
+
+ - important parts that need copy
+  - e-mails
+  - registration pages
+  - opt-in pages
+  - order pages
+  - upsell pages
+  - lead pages
+  - "lifts"
