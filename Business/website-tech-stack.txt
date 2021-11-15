@@ -1,0 +1,15 @@
+- code: git
+- static site generator: gatsbyjs
+
+- UI: bootstrap
+ - sass
+ - Typography.js
+ 
+- JavaScript
+ - TypeScript?
+ - JSX
+ - Babel (transcompiler)
+ 
+- Hosting: Netlify
+ 
+- CMS: WordPress
