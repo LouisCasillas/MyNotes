@@ -7,6 +7,11 @@ Site to-do:
 - keep list of all images and check for changing hashes (maybe image changed or is now showing a 'missing image' image)
 - keep list of most common 404 hits and where the hit came from
  - black list any spam bots hitting random urls
+ 
+- Meta tags:
+ - Tell Google to not cache the webpage, users must go to the website directly-into-your-html/
+  - <meta name="robots" content="noarchive">
+  - find other meta tags that tell search engines how often content is changed and how often they should crawl the site
 
 Basic website must haves
 

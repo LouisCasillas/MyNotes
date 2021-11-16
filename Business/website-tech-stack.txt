@@ -3,13 +3,20 @@
 
 - UI: bootstrap
  - sass
+  - linter-sass-lint
  - Typography.js
+ - image optimizer
+  - pngcrush
  
 - JavaScript
  - TypeScript?
+  - linter built-in
  - JSX
  - Babel (transcompiler)
  
 - Hosting: Netlify
  
 - CMS: WordPress
+
+- webpage search
+ - lunr.js
