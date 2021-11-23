@@ -23,3 +23,9 @@ random.shuffle(x)
 import sys
 sys.path.append('path/to/module-folder/')
 import my-module
+
+- Using command-line arguments
+import sys
+print("Number of arguments: ", len(sys.argv))
+print("Argument List: ", sys.argv)
+print("Program name: ", sys.argv[0])    
