@@ -1,0 +1,25 @@
+# Python Notes
+
+- Clear the screen on terminal
+# install replit: $ pip3 install replit
+from replit import clear
+clear()
+
+- Select random element of array
+import random
+x = []
+random.choice(x)
+
+- Get array indexes for some matching logic
+x = []
+[ i for i, letter in enumerate(x) if letter == 'l' ]
+
+- Shuffle array
+import random
+x = []
+random.shuffle(x)
+
+- To import a module from another folder, you have to append the folder path to sys.path:
+import sys
+sys.path.append('path/to/module-folder/')
+import my-module
