@@ -1,3 +1,4 @@
+# General Links
 - Generate human face - https://thispersondoesnotexist.com/
 - Reverse image search - tineye.com/
 - Paraphraser - https://quillbot.com/
@@ -10,3 +11,8 @@
  - https://art1lib.org/
 - Cost of living calculator
  - https://www.numbeo.com/cost-of-living/
+ 
+# Youtube
+ - Learning Tech
+  - https://www.youtube.com/user/krishnaik06/videos
+  
