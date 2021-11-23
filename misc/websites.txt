@@ -1,4 +1,4 @@
-# General Links
+# General interesting links
 - Generate human face - https://thispersondoesnotexist.com/
 - Reverse image search - tineye.com/
 - Paraphraser - https://quillbot.com/
@@ -15,4 +15,8 @@
 # Youtube
  - Learning Tech
   - https://www.youtube.com/user/krishnaik06/videos
-  
+ - Simulation videos
+  - https://www.youtube.com/c/VirtualVideosChannel/videos
+  - https://www.youtube.com/c/TheSilentWatcher/videos
+  - https://www.youtube.com/c/TreadmillTV/videos
+  - https://www.youtube.com/c/IndoorCyclingVideos/videos
