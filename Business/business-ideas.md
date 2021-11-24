@@ -305,3 +305,9 @@
   - once domains are parked try adding something beyond just showing standard parked domain ads
 
 - Apps and/or sites to help ADHD people
+
+- Joke website where people take picture and it shows them an animal instead
+
+- Website that takes picture and analyzes people to see what animal they are most like
+
+-  Website where a person creates their perfect date or gift and then send a link to someone telling them it is randomly generating a date or gift for them. 
