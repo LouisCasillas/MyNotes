@@ -1,14 +1,14 @@
 # Essential Oils I like
 
 ## Would buy or make
- - lemon
- - peppermint
+- lemon
+- peppermint
 
 ## Would make
- - clary sage
- - eucalyptus
- - grape fruit
- - orange
+- clary sage
+- eucalyptus
+- grape fruit
+- orange
 
 ## Not bad
 - bergamot 

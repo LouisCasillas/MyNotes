@@ -1,5 +1,5 @@
 # Website Workflow
-- TODO: rewrite in Markdown
+- TODO: re-write in Markdown
 
 0) Download automated script that sets up the Dev/Publishing environment
     • Should try to automate steps 1-2

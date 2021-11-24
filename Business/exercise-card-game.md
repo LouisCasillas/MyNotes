@@ -1,5 +1,5 @@
 # Open Source Exercise Card Game
-- TODO: rerwite in markdown
+- TODO: re-write in markdown
 
 - Number Cards = Minion Cards
 - Face Cards = Boss Cards

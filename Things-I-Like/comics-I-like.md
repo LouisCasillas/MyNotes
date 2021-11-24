@@ -1,4 +1,4 @@
-# Comics I liked
+# Comics I like
 
 - Metabarons
 - Transmetropolitan

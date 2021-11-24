@@ -1,6 +1,5 @@
-Buying Land Advice
-------------------
-
+# Buying Land Advice
+- TODO: re-write in markdown
 Land for sale:
 http://www.bid4assets.com/
 
