@@ -1,19 +1,19 @@
-Cooking tips:
- - Taken from:
+# Cooking tips
+ - Taken from
   - America's Test Kitchen
   - Rouxbe Cooking School
 
-Cleaning:
+## Cleaning
  - 1 tbsp bleach to 1 quart water
   - kills almost all bacteria
  - boil sponge and rags for 5 minutes
 
-General tips:
+## General tips
  - if mixing with one hand and pouring with the other hand you can help steady the bowl by wrapping the bottom of the bowl with a towel or putting the bowl into a bigger pan
  - use side to side whisking for all needs except for whipping egg whites (use beating method up and down)
  - sprinkle spices and salt from high up for more even distribution
  
-Cast iron pans:
+## Cast iron pans
  - use a drop of soap when cleaning
  - use refined vegetable oil for seasoning
  - acidic foods no more than 30 minutes and remove quickly
@@ -22,18 +22,18 @@ Cast iron pans:
  - use two as panini
  - use as pie plate
 
-Salmon:
+## Salmon
  - can feel small pin bones with hand and remove with tweezers
  - fold small parts and use toothpick to make salmon similar size for even cooking
 
-Pasta:
+## Pasta
  - 2 tsp lemon juice to 4 qt water
   - keeps pasta from being sticky
  - salt the water
  - don't add oil to cooking water
  - save 0.5 cup cooking water and add back to pasta sauce
 
-Lemon:
+## Lemon
  - 2 tsp juice to 1 cup recipe with vegetables to keep them fresh longer
  - Substitute for wine in recipes
   - 0.5 cup wine => 0.5 cup chicken broth + 1 tsp lemon juice
@@ -43,13 +43,13 @@ Lemon:
   - store zested lemon in plastic wrap before refrigerating
   - store juice or zest in zip lock bag in the freezer
 
-Pizza:
+## Pizza
  - try using gravity when rolling out pizza dough
   - when stretching the dough let a portion hang over the edge of the table or knuckles and keep rotating
  - if using a normal oven keep pizza on a baking stone in a tight space at the top of the oven so heat is reflected off the stone and back to the pizza
  - create steam in oven while baking the bread by using hot lava rocks on a pan, heat the lava rocks while the oven is heating up and pour boiling water onto the rocks and pan, then put the bread in the oven and while doing so pour more boiling water onto the rocks
 
-Garlic:
+## Garlic
  - size of the cut garlic changes the power of the garlic. The smaller the garlic is cut the more powerful the flavor.
  - the longer garlic is left out alone the stronger the flavor
   - to stop the increase in flavor heat the garlic to over 140F or mix with acid
@@ -57,7 +57,7 @@ Garlic:
   - cook garlic in butter to pull out the most flavor
    - once cooked add unmelted butter to make it easily spreadable and add hydrated garlic powder 
 
-Bread:
+## Bread
  - if adding extra toppings before baking (such as seeds) use a wet towel and roll the dough over the wet towel to evenly wet the dough surface, then roll the dough on a pan with the toppings
  - after kneeding and after the dough has been resting 30-60 minutes take it out and fold it 6-8 times and put back to rest, repeat 3-4 times
  - testing dough for properly proofed dough
@@ -68,13 +68,13 @@ Bread:
   - instant yeast does not need to be mixed with water and proofed
   - needs 25% less than active dry yeast
 
-Flour:
+## Flour
  - bread flour (King Arthur) is high protein and high gluten
   - good for bagels and pizza or anything you want to be chewier
  - cake flour does not have much gluten, just enough to create structure
  - all-purpose flour is inbetween bread and cake flour
 
-Pickling:
+## Pickling
  - onions 
   - sweet and spicy
    - 1 cup red wine vinegar, 0.333 cup sugar, 2 thinly siced jalapenos, 0.25 tsp of salt
@@ -82,21 +82,21 @@ Pickling:
 - pour over 1 thinly sliced red onion
     - let sit for at least 30 minutes
 
-Tomatoes:
+## Tomatoes
  - cut canned tomatoes while still in the can with scissors
  - store whole tomatoes stem-side down
 
-Vanilla:
+## Vanilla
  - if using whole bean
   - sprinkle sugar on the outside of the bean and use the sugar to squeeze off all the vanilla seeds and flavor
    - do on both sides
 
-Nuts:
+## Nuts
  - to remove the skins
   - put nuts in the oven @ 350F for 10-15 minutes
   - when cooled remove the skins by rolling the nuts by hand in a strainer
 
-Pie:
+## Pie
  - Crust/Dough
   - use butter (3 parts) and shortening (1 part)
   - don't mix all flour together
@@ -122,7 +122,7 @@ Pie:
   - add sugar to egg whites about 40-60 seconds  after whipping
  - run unbaked pie under the faucet or brush gently with water - helps dough hold onto sugar
 
-Cake:
+## Cake
  - when using powdered sugar use strips of paper or other objects on the cake to create decorations 
   - can use multiple layers of the same powder or use powdered sugar and cocoa powder for interesting designs
  - if drawing decorations first use a toothpick to trace the drawing in the icing, if you mess up smooth the icing and start again, then follow the lines with the colored icing for the drawing
@@ -133,13 +133,13 @@ Cake:
   - wrap with tin foil and place around the cake pan
   - tie with wet twine
 
-Balsamic vinegar:
+## Balsamic vinegar
  - to imitate aged balsamic vinegar 
   - add 0.3333 cup of balsamic vinegar, 1 tbsp sugar, 1 tbsp port
   - reduce over very low heat until half the volume of original
    - drizzle over fresh fruit, ice cream, meat 
 
-Eggs:
+## Eggs
  - Scrambled eggs
   - use half and half milk and/or use 0.125 of salt per 2 eggs to keep moist
   - don't mix too much first
@@ -163,18 +163,18 @@ Eggs:
   - cover pot and let stand for about 3 minutes
   - lift egg to serving plate
 
-Baking soda:
+## Baking soda
  - if it doesn't react with vinegar it's too old for cooking
   - can still be used for absorbing smells
 
-Coffee:
+## Coffee
  - a tiny pinch of salt added to the grounds before brewing helps reduce any bitter flavors
 
-Biscuits:
+## Biscuits
  - try rendering bacon fat for use in biscuits
   - add a bit of lard to make fluffier biscuit
 
-Asian food:
+## Asian food
  - shaoxing can be substituted with sherry
  - mirin can be substituted with tbsp white wine and tsp of sugar for each tbsp of mirin
  - panko breadcrumbs can be substituted with bread crumbs made from the center of the bread not the outer crust
@@ -184,7 +184,7 @@ Asian food:
  - thai basil can be substituted with fresh basil chopped and added at the last minute
  - tobiko (flying fish roe) can be substituted with salmon roe
 
-Roast:
+## Roast
  - don't overcook
   - roast in 200-250F until internal temp is 110F
   - pull out roast, turn oven to 500F
@@ -192,7 +192,7 @@ Roast:
   - let rest covered 10-15 minutes
   - slice across grain
 
-Fruits/Veggies:
+## Fruits/Veggies
  - rinse with fruit wash
   - 3 parts water to 1 part vinegar
   - then rinse with coldwater
@@ -217,7 +217,7 @@ Fruits/Veggies:
   - squeeze the lemon over the veggies, sprinkle salt, pepper, extra olive oil, and flaked parmesan cheese
  - salt will draw out moisture so if possible only add salt directly before serving
 
-Corn:
+## Corn
  - to make corn on the cob
   - 6 ears of corn to 4 quarts of water
   - bring pot to rolling boil with no salt added
@@ -226,13 +226,13 @@ Corn:
  - good chili spice mix
   - 2 tbsp of kosher salt, 4 tsp of chilli powder, 3/4 tsp of lemon zest
 
-Mustard:
+## Mustard
  - how to get spicy mustard
   - higher fat content means more mustard seeds and stronger flavor
   - buy fresher mustard
   - look at preservatives, sulfur dioxide > tartaric acid
  
-Chocolate:
+## Chocolate
  - milk chocolate - Dove
  - unsmweetened - hersheys
  - dark chocolate - should have 60% cocoa, no more
@@ -250,16 +250,16 @@ Chocolate:
   - cool to room temperature and use
  - to cut big chunk of chocolate use a serated blade and cut on the edge of the block
 
-Cutting board:
- - to remove smells:
+## Cutting board
+ - to remove smells
   - cover with paste of 1 tbsp baking soda, 1 tsp water
   - rinse
 
-Gravy:
+## Gravy
  - wondra flour doesn't clump as much
   - can substitute with cake flour 
 
-Herbs/Spices:
+## Herbs/Spices
  - most spices are sensitive so try to minimize the time they are heated/cooked
   - add at the last possible time
  - most common types of herbs are delicate and hearty
@@ -283,13 +283,13 @@ Herbs/Spices:
   - halibut - dill
   - eggs - chives
 
-Baking:
+## Baking
  - use parchment paper not wax paper
 
-Corn:
+## Corn
  - skin is too thick to absorb any flavorings in the boiling water
 
-Chicken:
+## Chicken
  - juicy chicken for salad or other
   - pound chicken breast so they are flat and evenly thick
   - put water in a pot and a bit of salt
@@ -327,19 +327,19 @@ Chicken:
   - dark meat until 175F
  - if you want more herb butter sauce to stay on the chicken cut the chicken so it's flat and slice lines every few inches in the chicken that will hold the herb butter sauce when added
 
-Lemon:
+## Lemon
  - use lemon juice and/or zest to help increase and mellow flavors
   - generally only use zest in baking or soup or a dish with cream, don't use too much
   - can be substituted with white whine vinegar or rice wine
 
-Vinaigrette:
+## Vinaigrette
  - 1 tbsp vinegar:3 tbsp oil:0.5 tsp mayonnaise:0.5 tsp mustard
 
-Tomatillos:
+## Tomatillos
  - if blanching don't remove the core until after they are cooked
  - look for tight fitting husks, firm, and bright green
 
-Shrimp:
+## Shrimp
  - try to only buy fresh shrimp that has not been frozen, peeled, or cooked prior
  - pan sear
   - 1-2 minutes per side in very hot pan
@@ -368,11 +368,11 @@ Shrimp:
   - take pan off heat and add 4 tbsp of cold butter to 1 tbsp of chopped parsley, keep stirring, about a minute or more
   - add shrimp back, pour shrimp and squeeze a little lemon juice
 
-Pork:
+## Pork
  - Cook until internal temperature of 135-140F, take off heat and cover, letting it rest covered for 15 minutes
  - when cooking pork chops slice the fat strip every few cm so it doesn't pull tight, don't cut into the meat
  
-Ginger:
+## Ginger
  - use a spoon to peel
  - hot level
   - dried ginger > fresh ginger > cooked ginger
@@ -388,10 +388,10 @@ Ginger:
  - ginger snap cookies
   - use fresh and powdered ginger
 
-Marinade:
+## Marinade
  - Common ratio is 1 parts acid to 2-3 parts oil with seasoning added
 
-Potatoes:
+## Potatoes
  - scrub potatoes under water
  - red potatoes hold their form better and don't absorb as much liquid
   - good for salads and soups/stews
@@ -399,24 +399,24 @@ Potatoes:
   - good for mashed potatoes or hot potato with toppings
  - yukon gold is in the middle of red potatoes and russet
 
-Sugar:
+## Sugar
  - Brown sugar
   - if it gets clumpy put it in a 250F and let cook for 3-7 minutes
   - sucks up water much more than white sugar
   - use to make chewy cookies
  - White sugar
   - use to make crunchy cookies
- - to process granulated sugar:
-  - for super fine sugar blend sugar for 30 seconds
-  - for confectioners sugar blend 1 cup sugar to 1 tsp corn starch for at least 60 seconds, then strain the sugar through super fine mesh
-  - for light brown sugar mix 1 tbsp molasses to 1 cup sugar and blend
-  - for dark brown sugar mix 2 tbsp molasses to 1 cup sugar and blend
+  - to process granulated sugar
+   - for super fine sugar blend sugar for 30 seconds
+   - for confectioners sugar blend 1 cup sugar to 1 tsp corn starch for at least 60 seconds, then strain the sugar through super fine mesh
+   - for light brown sugar mix 1 tbsp molasses to 1 cup sugar and blend
+   - for dark brown sugar mix 2 tbsp molasses to 1 cup sugar and blend
   
-Butter:
+## Butter
  - get butter soft quickly by putting it in a bag and beating it with a rolling pin
  - if using butter for a sauce use at the end of cooking and use chilled butter
 
-Seafood: 
+## Seafood
  - how to know when it's done
   - lobster - measure in the center of the tail - 140F
   - salmon - wild 120F, farm raised 125F
@@ -429,16 +429,16 @@ Seafood:
   - 5 tbsp salt to 2 quarts water,
  - try wrapping fattier pancetta around lower fat seafood like halibut
 
-Turkey:
+## Turkey
  - brine or salt under the skin
  - if the turkey doesn't come with a neck to make gravy cut the wings in half and use them
  
-Wine:
+## Wine
  - ideal temperature is 50 F
  - wrap bottle in wet towel before placing in freezer
  - to quickly aerate pour wine back and forth between pitchers 15 times
 
-Salt:
+## Salt
  - always measure by weight not volume
  - amount of salt added to meat is dependent on the amount of fat in the meat
   - turkey breast, pork loin - 0.5% salt by weight
@@ -449,7 +449,7 @@ Salt:
  - after a dish is done use sea salt flakes
   - to prevent immediate melting spray a bowl with pam and then add 1.5 tsp of flaky sea salt (fleur de sel) to the bowl and lightly mix and then put the salt onto the food
 
-Steak:
+## Steak
  - if freezing meat
   - first put in freezer on baking sheet with parchment paper uncovered
   - once fully frozen wrap in plastic wrap and into zipper lock bags for storage
@@ -466,7 +466,7 @@ Steak:
   - brine meat if moist meat is desired
  - if meat is stuck to pan wait until the food is browned at high temperature and then flip
   
-Grains:
+## Grains
  - quinoa
   - rinse to remove bitter outer taste
  - rice
@@ -490,7 +490,7 @@ Grains:
       - stir in grains and keep moving around, at least 3-5 minutes
       - follow absoption method to finish
 
-Frying:
+## Frying
  - use peanut oil, vegetable shortening, or vegetable oil
   - add a little bacon fat
  - don't overcrowd the pan, only use one layer
@@ -511,19 +511,19 @@ Frying:
  - for extra crispy fry twice
   - fry for half the time, remove, let set for 5 minutes, fry for the remaining time
   
-Oil:
+## Oil
  - to substitute for regular olive oil (non-virgin) you can mix 1 part extra virgin olive oil to 3 parts canola oil
  - look for shimmering and waves for the right heat to sautee an onion
  - look for slight whisps of smoke to brown and sear
 
-Mushrooms:
+## Mushrooms
  - preparing portabello
   - should have dry gills
   - remove stem
   - remove gills with spoon
   - wipe caps with wet paper towel to remove all dirt
 
-Cookies:
+## Cookies
  - for "crinkle" cookies or cookies with fractures
      - combine baking powder and baking soda to get fractures and spread
         - use 1 tsp baking powder to 0.25 tsp baking soda
@@ -532,17 +532,17 @@ Cookies:
  - let baking sheets return to room temperature between batches
  - when storing fresh cookies in a tin place a piece of parchment paper on the bottom, a tortilla, and another piece of parchment paper, then layer the cookies
  
-Fizzy drinks:
+## Fizzy drinks
  - when making your own fizzy drinks start with ice cold water (32F) so the liquid can absorb more carbon dioxide
 
-Popcorn:
+## Popcorn
  - to get all kernels to pop at the same time
   - heat oil in pan, ideal temp is ~380F
   - add a few test kernels and remove the pan when they pop
   - add all kernels, cover with lid, wait 30 seconds, then put back onto the heat source
   - shake the pan with the lid slightly ajar
 
-Cheese:
+## Cheese
  - melting
      - young cheese melts easier - monter
      - macaroni and cheese, fondu
@@ -568,21 +568,20 @@ Cheese:
   - spray grate with pam
   - use the large holes on a grater
  
-Chilis:
+## Chilis
  - chipotle chilis are red jalapenos that are slowly smoked
  - serrano chilis can be substituted with jalapeno chilis
- - for whole chipotle chili you can substitute:
-  - 3/4 tsp of chipotle chili powder, 1/4 tsp red wine vinegar, 1/4 tsp of tomato paste
- - for every tsp of adobo sauce you can substitute:
-  - 1/8 tsp of chipotle chili powder, 1/2 tsp red wine vinegar, 1/2 tsp of tomato paste
+  - for whole chipotle chili you can substitute
+   - 3/4 tsp of chipotle chili powder, 1/4 tsp red wine vinegar, 1/4 tsp of tomato paste
+  - for every tsp of adobo sauce you can substitute
+   - 1/8 tsp of chipotle chili powder, 1/2 tsp red wine vinegar, 1/2 tsp of tomato paste
   
-Coconut:
- - coconut cream:
+## Coconut
+ - coconut cream
   - 1 part water to 4 parts shredded coconut milk 
   - simmer until foamy
   - strain
- - coconut milk:
+ - coconut milk
   - 1 part water to 1 parts shredded coconut milk 
   - simmer until foamy
   - strain
- 

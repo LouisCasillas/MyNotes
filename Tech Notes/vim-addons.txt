@@ -1,4 +1,0 @@
-look at:
-https://github.com/skanehira/preview-markdown.vim
-https://github.com/iamcco/markdown-preview.nvim
-

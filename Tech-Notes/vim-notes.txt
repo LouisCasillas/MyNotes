@@ -1,52 +1,24 @@
-# todo/wants:
-	- when you click in a buffer change to that one
-	- change bracket highlighting colors based on depth
-Vim-LaTeX Suite,[38] Automatic TeX[39] and TeX-9
-	- look at custom text objects
-		- indent, entire, line, programming blocks, ?
-	- delete all trailing whitespace
-	- system global clipboard
-	- add line number into text
-	- find most common misspellings, typing mistakes, and create vim abbreviations to automatically handle these
-	- find a better isfname definition so ^X^F can go past directories with spaces in the name
-	- make notes standardized
-		- show the shortest possible subset string of each command as in the vim help guide
-		- make cure ctrl+character is shown the same as in the vim help guide
+# Vim Notes
 
-# Plugins to look at:
-	- vim outliner plugin
-		- https://github.com/vimoutliner/vimoutliner
-	- surround vim
-	- snipmate
-	- smooth scroll
-	- Repeat.vim
-	- Commentary
-	- Titlecase
-	- System-copy
-	- fugitive - git tool
-	- syntastic - syntax checker / linter
-
-# Learning resources I've used:
+## Learning resources I've used:
 	- videos
-		- Doing some real-world work in VIM!-mH1GGI2Jpbs.mp4
-		- Start Turning vim into a _comfy_ IDE!-Q4I_Ft-VLAg.mp4
-		- Improving Vim Speed-OnUiHLYZgaA.mp4
-		- Vim Navigation Commands-Qem8cpbJeYc.mp4
-		- Mastering the Vim Language-wlR5gYd6um0.mp4
-		- Talk on going mouseless with Vim, Tmux, and Hotkeys-E-ZbrtoSuzw.mp4
-		- How to Do 90% of What Plugins Do (With Just Vim)-XA2WjJbmmoM.mp4
-		- vim + tmux - OMG!Code-5r6yzFEXajQ.mp4
+		- Doing some real-world work in VIM! - https://www.youtube.com/watch?v=mH1GGI2Jpbs.mp4
+		- Start Turning vim into a _comfy_ IDE! - https://www.youtube.com/watch?v=Q4I_Ft-VLAg.mp4
+		- Improving Vim Speed - https://www.youtube.com/watch?v=OnUiHLYZgaA.mp4
+		- Vim Navigation Commands - https://www.youtube.com/watch?v=Qem8cpbJeYc.mp4
+		- Mastering the Vim Language - https://www.youtube.com/watch?v=wlR5gYd6um0.mp4
+		- Talk on going mouseless with Vim, Tmux, and Hotkeys - https://www.youtube.com/watch?v=E-ZbrtoSuzw.mp4
+		- How to Do 90% of What Plugins Do (With Just Vim) - https://www.youtube.com/watch?v=XA2WjJbmmoM.mp4
+		- vim + tmux - OMG!Code - https://www.youtube.com/watch?v=5r6yzFEXajQ.mp4
 	- courses
-		- Vim for Advanced Users/
+		- Vim for Advanced Users
 	- articles
 		- https://www.drbunsen.org/writing-in-vim/
-		- 8 Great Vim Mappings by Vic Ramon - 8%20Great%20Vim%20Mappings%20_%20Hashrocket.mhtml
-		- 8 Vim tips and tricks ofr advanced beginners - 8%20Vim%20tips%20and%20tricks%20for%20advanced%20beginners%20_%20Bennett%20Hardwick.mhtml
-	- books
-		-
+        - https://hashrocket.com/blog/posts/8-great-vim-mappings
+        - https://bennetthardwick.com/beginner-advanced-vim-tips/
 
-# Features
-- spell checking
+## Notes
+ - spell checking
 	- :set spell
 		- turn on the feature
 	- ]s
@@ -62,12 +34,12 @@ Vim-LaTeX Suite,[38] Automatic TeX[39] and TeX-9
 		- the word the cursor is on is removed from the list of acceptable spellings
 		- zuw - undo remove
 
-- code completion
+ - code completion
 	- :set omnifunc=?
 		- turn on the feature using completion for ? code
 	- [insert mode] {ctrl+x} {ctrl+o}
 
-- tab usage
+ - tab usage
 	- :tab new
 		- open new buffer in a new tab
 	- :tab close
@@ -85,7 +57,7 @@ Vim-LaTeX Suite,[38] Automatic TeX[39] and TeX-9
 		- execute a command in the current buffer of each tab
 		- :tabdo norm ZZ
 			- close, and potentially write, the current buffer in each tab
-- window usage
+ - window usage
 	- :windo {command}
 		- execute a command in each window
 		- :windo difft
@@ -117,7 +89,7 @@ Vim-LaTeX Suite,[38] Automatic TeX[39] and TeX-9
 	- :set scollbind
 		- bind this window to other windows you have set scrollbind on so that when scrolling in one window the other windows scroll at the same time
 
-- undo
+ - undo
 	- :undolist
 		- show list of current changes to the buffer
 	- :earlier/later [5m/5]
@@ -125,16 +97,15 @@ Vim-LaTeX Suite,[38] Automatic TeX[39] and TeX-9
 	- :undo <number>
 		- return the buffer to an exact undo number position
 
-# commands
-- bracket jumping
+ - bracket jumping
 	- %
 		- while the cursor is over a bracket press % to jump to the matching closing bracket
 
-- escaping insert mode
+ - escaping insert mode
 	- Esc
 	- {ctrl+[}
 
-- deletion commands
+ - deletion commands
 	- Note: these commands can be performed with other actions such as y for yank or v for visual select, just replace d with y or v or some other action letter
 	- daw
 		- delete the whole word, which is delimited by alphanums and underscore, up to the next word including any spaces
@@ -178,7 +149,7 @@ Vim-LaTeX Suite,[38] Automatic TeX[39] and TeX-9
 		- delete all characters from the cursor to the <character> not
 		  including <character>, and start insert mode
 
-- abbreviations
+ - abbreviations
 	- :ab <abbreviated text> <long text>
 		- example: :ab #h /* Header Text */
 		- Note: to be able to type out the abbreviated text type the text and hit CTRL-v before hitting space or exiting insert mode
@@ -186,29 +157,29 @@ Vim-LaTeX Suite,[38] Automatic TeX[39] and TeX-9
 	- :put <same register letter>
 		- print all abbreviations to the current file
 
-- repeating insert edits
+ - repeating insert edits
 	- after you make some edit to the document and exit insert mode you can repeat the edit by hitting the period '.' key
 		- Example use case: interactive search and replace - search for a word, without changing position, change the word, hit n to go to the next result, either hit period '.' to make the same change or hit 'n' to go to the next result
 			- this could also be done with the command :%s/oldword/newword/gc
 
-- show all white space characters
+ - show all white space characters
 	- turn on
 		- :set list
 	- turn off
 		- :set nolist
 
-- remove DOS line endings
+ - remove DOS line endings
 	- :%s/{ctrl+v}{ctrl+m}//
 
-- repeat executable commands
+ - repeat executable commands
 	- :!ls
 		- repeat with @:
 
-- see possible command/file completion choices
+ - see possible command/file completion choices
 	- :r {ctrl+d}
 	- :edi {ctrl+d}
 
-- search for a character in the current line
+ - search for a character in the current line
 	- f<character>
 		- search forward to each character
 	- t<character>
@@ -218,7 +189,7 @@ Vim-LaTeX Suite,[38] Automatic TeX[39] and TeX-9
 	- ,
 		- go to the previous character
 
-- search for a word in the document
+ - search for a word in the document
 	- /<text to find>
 	- *
 		- will make the closest forward word the search term and move forwards through the results
@@ -229,7 +200,7 @@ Vim-LaTeX Suite,[38] Automatic TeX[39] and TeX-9
 	- N
 		- move backward to the next search result
 
-- macros
+ - macros
 	- q{macro character}
 		- start macro
 	- q
@@ -254,7 +225,7 @@ Vim-LaTeX Suite,[38] Automatic TeX[39] and TeX-9
 				- jj:s/ /_/g^M
 					- moves to the next line even if the line does not contain any spaces, allowing the macro to continue as expected
 
-- global commands
+ - global commands
 	- search and delete matching lines
 		- :g/wordtomatch/d
 	- search and delete non-matching lines
@@ -479,7 +450,7 @@ Vim-LaTeX Suite,[38] Automatic TeX[39] and TeX-9
 	- :{ctrl+r}<register letter or number>
 		- paste the contents of the register onto the command line
 
-- visual selection
+ - visual selection
 	- :'<,'>w ! <command><Enter>
 		- send all the selected text to the given terminal command
 	- <while in visual block mode> o

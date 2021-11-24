@@ -24,3 +24,4 @@
   - check for 404s, dead images, links that redirect to possibly unwanted content
  - $100 - I will interview you for a tech job of your choice
  - Google/Excel sheet editor
+ - code reviews

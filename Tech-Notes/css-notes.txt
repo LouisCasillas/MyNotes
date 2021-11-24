@@ -1,4 +1,6 @@
-Element sizing
+# CSS Notes
+
+## Element sizing
 	- rem *best for responsive websites
 	 - size relative to the root element (generally HTML font size)
 
@@ -13,7 +15,7 @@ Element sizing
 	 - screen/viewport is split into 100 slices horizontally
 	 - vw size uses the 100 slices to size things
 
-Selectors
+## Selectors
  - insert content before or after content
 	- :before
 	- :after

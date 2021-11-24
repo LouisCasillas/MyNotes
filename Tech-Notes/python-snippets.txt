@@ -1,4 +1,4 @@
-# Python Notes
+# Python Snippets
 
 - Clear the screen on terminal
 # install replit: $ pip3 install replit

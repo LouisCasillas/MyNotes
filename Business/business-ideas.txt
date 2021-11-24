@@ -64,7 +64,7 @@
  - ask stores if they want me to check their English
  
 - system where people text other people to keep accountability
- - accountabilabuddy
+ - accountabilabuddy.com - abilabuddy.com
 
 - park ads on urls that are simply misspellings one might miss-type on a mobile phone keyboard such as being one row to the left or right
 
@@ -90,6 +90,7 @@
 - have a mobile app that plays thematic sounds and music while someone is reading a book
  - horror book - spooky music and wolf howling
  - possibly have some type of AI to determine what kind of mood to create, sound effects such as a door creaking open, dog barking, so on...
+ - allow people to create scripts for the book with their own sound effects
 
 - automated keyword research
  - look at common searches and gather data for different websites at the top spots
@@ -110,6 +111,11 @@
    - random button w/ difficulty select
    - different types of notation
    - undo, move history
+ - keep track of level completion times, show people their rank during and after play
+ - let people copy and paste boards
+ - let people hold ctrl or shift for different functions like possible numbers
+ - give good details on hints, link to youtube videos as well
+ - create sudoku variations and math variations
 
 - twitter account that posts the hottest amazon sales, flight sales, price differences between amazon and ebay, market trends for dropshipping
 
@@ -142,7 +148,9 @@
  - Person with the password can have the app listen and tell them the message
  - so people can communicate in public secretly
 
-- Some system for guys to support each other not only fans
+- Some system for guys to support each other, not things like onlyfans
+ - For example, someone is fat and starting an exercise plan but has to show proof they are actually exercising, someone is trying to go through medical school, so on.
+ - Possibly, have money stored in escrow until certain goals are met such as 10 lbs weight loss or finish pre-med.
 
 - System for people who want to join together and live simpler lives.  Insta-families... Setup who makes money, who cooks, so on...
 
@@ -151,8 +159,6 @@
 - card game where you keep track of your activity and imagine your daily life as if you are an RPG character
  - "Travel to Wesnoth.  Go walk for 5,000 steps (2 miles)"
  - "You're running low on rations.  Make an effort to eat a smaller dinner.  Let your body use your extra fat for energy and focus on the quest."
-
-- Linux course for tricks like using && or grep for process name without using [letter]
 
 - Site where people can leave life decisions up to others.
 
@@ -177,6 +183,7 @@
 - JS crypto message system. Delete after 24 hours...
 
 - Create educational courses
+ - Linux course for tricks like using && or grep for process name without using [letter]
 
 - Futures/? trading
  - FinTech, algorithmic trading
@@ -199,3 +206,102 @@
 
 - Automatically e-mail users if there’s any good deals
     - Track failed/bounced e-mail addresses and prune the list
+
+- site that compiles news, 90% happy news, 10% regular news
+
+- device you attach to a weight and talks to you if didn't lift it often enough - cute voice like pokemon, sexy woman/man voice, drill instructor voice, robot voice, ... Allow user to record a voice message
+
+- App/site that gives you a quote from a TV show/movie to suit your mood
+ - for example:
+  - Angry at men, anti-men quote
+  - Someone died, quote about death
+
+- Encryption message app that only send messages to the person when you are both online
+ - Messages are stored encrypted on your device until the person receives them. Use pub/private pgp key for signature.
+
+- Have automated audio transcription that are spot checked by humans.
+
+- app that gives you a new place daily
+ - let users from that place upload pictures and quotes and others can see the content
+  - store content on website
+
+- word matching game
+ - you are a young wizard starting out and as you progress you get magical words to use as spells
+
+- app that generates music for you and learns what you like
+ - make it a community effort similar to electric sheep screensaver?
+
+- app that sends you pictures of food or other SFW porn (mountains, space, ...)
+
+- app to take picture of food and estimate calories
+
+- microsite example
+ - http://whatthefuckshouldimakefordinner.com/index.php
+
+- videos uploaded daily with a progression exercise routine - 1 pushup, 1 crunch, 1 jumping jack, 1 squat, ?, next week start with 2, so on...
+ - can you automate youtube video uploads?
+
+- minimalist to-do list site
+ - only allows you to have 5 things on your list
+  - forces you to really think before adding any more
+  - send message to you and someone else if a list isn't being worked on
+
+- web calculator with infinite precision
+ - allow people to save, share, and comment on calculations
+  - For example allow people to add labels to each number and step:
+   - 4 apples + 8 pears = 12 fruit
+ - chat with other people while using the same calculation sheet?
+
+- website you leave open that alerts you every x minutes to continue working
+ - similar to a hydration timer
+
+- website with interval timer like the android app
+
+- website with steganography tools
+
+- reverse food lookup based on macros
+ - given x macro (carb, protein, fat) you can eat y grams of z food
+
+- Help people look at their budget and save money
+
+- site showing american made products
+
+- way to pay comics authors directly for comics
+
+ - Physical ideas
+  - Green home consultation
+  - deck staining
+  - powerwashing
+  - thermal imaging
+  - restaurant deep clean
+
+- app that shows when someome is thinking about you
+
+- a browser app that adds a checkbox or up/down button next to each paragraph so the paragraph can be hidden after reading.
+ - add a feature to split each sentence ending with '.' to it's own paragraph.
+
+- Competimate - pair people with similar fitness goals and see who can win, lose weight, do push-ups, go for a run, wake up at a certain time y times in a row, write x pages, ....
+
+- automate a youtube channel that grabs the top reddit posts and reads them for deaf users
+
+- a website where people can leave experiences/confessions
+
+- add invisible watermark to image for free, charge if they want it verified
+
+- Workers unite
+ - Let people live in an extra room while get on their feet
+ - Strict set of rules to live by.  No smoking, 6 months only, take out trash, wash dishes, ....
+
+- Give people a quick way to show their portfolio.  name.myportfolio.com
+
+- Have a site that people can leave open over night and it will start up a live-stream or X video so they can wake up and get started on a routine together and feel connected.
+
+- T-shirts/Designs
+ - automated art bot that reads news and creates topical designs
+
+- Domain flipping + domain parking
+ - auto bot that looks for good expired domains and lists them
+ - once domains are parked try paying for traffic to see if it increases revenue
+ - once domains are parked try adding something beyond just showing standard parked domain ads
+
+- Apps and/or sites to help ADHD people

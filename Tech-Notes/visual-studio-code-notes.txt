@@ -1,5 +1,6 @@
-VSCode
- - good extensions:
+# Visual Studio Code Notes
+
+## Good Extensions:
   - ES7 React/Redux/GraphQL
   - Auto-Open Markdown
   - Bracket Pair Colorizer
@@ -13,4 +14,3 @@ VSCode
   - React Native Tools
   - lorem extension?
   - Emmet
-  

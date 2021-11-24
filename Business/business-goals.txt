@@ -1,10 +1,3 @@
-- Earn $100/day (mostly) passively (once tools/programs are built)
-- Websites that make revenue because they add value to people's lives
-- Build courses and books
-- Domain flipping + domain parking
- - auto bot that looks for good expired domains and lists them
- - once domains are parked try paying for traffic to see if it increases revenue
- - once domains are parked try adding something beyond just showing standard parked domain ads
-- T-shirts/Designs
- - automated art bot that reads news and creates topical designs
-- Apps and/or sites to help ADHD people
+# Business Goals
+
+- Earn $100/day (mostly) passively (once tools/programs/sites are built)

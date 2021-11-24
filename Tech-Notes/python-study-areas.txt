@@ -1,4 +1,4 @@
-# - To Study
+# Python Study Areas
 
 - in-built functions
 - standard modules e.g. string

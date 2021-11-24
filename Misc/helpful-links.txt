@@ -1,4 +1,6 @@
-# General interesting links
+# Useful Links
+
+## General interesting links
 - Generate human face - https://thispersondoesnotexist.com/
 - Reverse image search - tineye.com/
 - Paraphraser - https://quillbot.com/
@@ -12,7 +14,7 @@
 - Cost of living calculator
  - https://www.numbeo.com/cost-of-living/
  
-# Youtube
+## Youtube
  - Learning Tech
   - https://www.youtube.com/user/krishnaik06/videos
  - Simulation videos
