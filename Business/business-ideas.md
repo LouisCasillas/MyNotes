@@ -311,3 +311,9 @@
 - Website that takes picture and analyzes people to see what animal they are most like
 
 -  Website where a person creates their perfect date or gift and then send a link to someone telling them it is randomly generating a date or gift for them. 
+
+- Sell digital products on Etsy or other similar sites.
+  - For example: Google Sheets for various things such as budget planning, exercise, so on.
+  - Create Youtube channel talking about each sheet
+  - Tools
+    - ahrefs.com - keyword research to find most popular searches getting people to a site like Etsy
