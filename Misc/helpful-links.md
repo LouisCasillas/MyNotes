@@ -15,10 +15,12 @@
   - https://www.numbeo.com/cost-of-living/
  
 ## Youtube
-- Learning Tech
+- Learning tech
    - https://www.youtube.com/user/krishnaik06/videos
 - Simulation videos
    - https://www.youtube.com/c/VirtualVideosChannel/videos
    - https://www.youtube.com/c/TheSilentWatcher/videos
    - https://www.youtube.com/c/TreadmillTV/videos
    - https://www.youtube.com/c/IndoorCyclingVideos/videos
+- Ways to make money online
+  - https://www.youtube.com/c/AlstonGodbolt/videos
