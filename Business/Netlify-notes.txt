@@ -1,4 +1,0 @@
-# Netlify Notes
- - Helpful articles
-  - SEO improvements and downfalls - https://salt.agency/blog/guide-netlify-seo-issues-and-how-to-tackle-them/
-  - SEO Fix - https://www.codesections.com/blog/netlify/

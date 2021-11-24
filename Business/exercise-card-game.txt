@@ -1,5 +1,4 @@
-Open Source Exercise Card Game
-------------------------------
+# Open Source Exercise Card Game
 
 - Number Cards = Minion Cards
 - Face Cards = Boss Cards

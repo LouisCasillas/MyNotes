@@ -1,34 +1,5 @@
-- fiverr ideas
- - make sure a translation sounds like proper English
- - pixelize an image
- - statistical analysis?
- - website analysis?
-  - quick security checking
- - find images that are being hotlinked?
- - keyword research
- - website competition research
- - automated tarrot reading
- - automated website builder
- - automated character naming and background
- - automated world map
- - automated D&D square board map
- - $100 - I will interview you for a tech job of your choice
- - optimize image sizes for website
- - text or e-mail to help keep adhd people on track - textnchat.com - goal-help.com - helpmygoals.com - textbuddies.com - textfriends.com - makingfriends.com 
- - call to get someone out of a meeting
-- make sure a translation sounds like proper English
- - pixelize an image
- - statistical analysis?
- - website analysis?
- - keyword research
- - competition research
- - automated tarrot reading
- - automated website builder
- - automated character naming
- - automated world map
- - automated D&D square board map
- - Google/Excel sheet editor
- 
+# Fiverr Notes
+
 - Value ladder - speaking to different customers at each level
  - $5-$20 - Tier 1
  - $20-$100 - Tier 2
@@ -44,3 +15,12 @@
  - Solution aware
  - Product aware
  - Hot (ready to buy)
+
+- fiverr ideas
+ - make sure a translation sounds like proper English
+ - statistical analysis?
+ - website analysis?
+  - quick security checking
+  - check for 404s, dead images, links that redirect to possibly unwanted content
+ - $100 - I will interview you for a tech job of your choice
+ - Google/Excel sheet editor
