@@ -317,3 +317,5 @@
   - Create Youtube channel talking about each sheet
   - Tools
     - ahrefs.com - keyword research to find most popular searches getting people to a site like Etsy
+
+- Penny stocks
