@@ -10,11 +10,15 @@
 - Lambda functions
 - iterators and generators
 - exception handling and importing libraries
+- decorators
+  - https://www.youtube.com/watch?v=vtoXyxcfmUo
+
 - OOP
   - polymorphism
   - inheritance
   - abstraction
   - encapsulation
+  
 - Data science libraries
   - Numpy
   - Pandas
@@ -23,6 +27,7 @@
   - Scipy
   - Mongo libraries 
   - MySQL libraries
+  
 - Machine learning
   - TensorFlow
   - PyTorch
