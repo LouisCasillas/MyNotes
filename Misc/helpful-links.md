@@ -17,6 +17,7 @@
 ## Youtube
 - Learning tech
    - https://www.youtube.com/user/krishnaik06/videos
+   - https://www.youtube.com/channel/UCVhQ2NnY5Rskt6UjCUkJ_DA
 - Simulation videos
    - https://www.youtube.com/c/VirtualVideosChannel/videos
    - https://www.youtube.com/c/TheSilentWatcher/videos
