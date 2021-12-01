@@ -118,11 +118,10 @@ import itertools
 x = itertools.islice(get_generator(), 5)
 print( list(x) )
 
-- save memory by telling python certain fields will not be changing so don't make copies of the fields
+- save memory by telling python the object fields will not be changing so don't make copies of the fields
 # defining __slots__ restricts values allowed in type but removes per instance dictionary storage, reducing memory and increasing access speed
 class myClass:
 	__slots__ = [ 'a', 'b', 'c', 'd' ]
-	
 	def __init__(self, a, b, c, d):
 		self.a = a
 		self.b = b
@@ -130,7 +129,16 @@ class myClass:
 		self.d = d
 
 class myChildClass(myClass):
-	__slot__ = 'foo' # don't re-add the same slots as the parent as these are inherited
+    # you don't re-add the same slots as the parent as the slots are inherited
+	__slot__ = 'foo'
+
+>>> x = myClass(4, 999, 222, 777)
+>>> x.__getattribute__('__dict__')
+Traceback (most recent call last):
+     File "<stdin>", line 1, in <module>
+AttributeError: 'myClass' object has no attribute '__dict__'
+>>> x.__getattribute__('__slots__')
+['a', 'b', 'c', 'd', 'e'] 
 
 - create an abstract class
 from abc import ABC, abstractmethod
@@ -431,4 +439,23 @@ import locale
 from functools import cmp_to_key
 my_list = sorted(my_list, key=cmp_to_key(locale.strcoll))
 
--
+- ascii to digit conversion and vice-versa
+# int to str
+ord('a') # -> 97
+chr(97) # -> 'a'
+
+- Printing an object
+# the method __repr__ will be called when the object is being printed if __str__ is not defined
+# __repr__ is used to print a representation of an object, usually it should be able to be passed to eval() and be rebuilt to equal itself, eval(repr(x)) == x => True
+# __str__ is for humans to easily read
+
+class MyClass:
+    def __init__(self):
+        pass
+    def __repr__(self):
+        return "Thank you for investigating me!"
+ >>> y = MyClass()
+ >>> print(y)
+ Thank you for investigating me!
+ >>> repr(y)
+ Thank you for investigating me!
