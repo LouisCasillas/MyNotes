@@ -23,9 +23,14 @@
 - Learn how to grow plants that help clean the air or provide spices
 
 - Find way to help society
+  - Give lonely people a purpose, a long-term goal.
 
 - Make own clothes
 
 - Buy land that allows an RV and have a sewer and water system put in.
 
 - Visit Mongolia
+
+- Have a little pet.
+
+- Design and build cyberpunk trailer
