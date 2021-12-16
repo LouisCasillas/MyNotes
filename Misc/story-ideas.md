@@ -111,3 +111,7 @@
   - have the background story that man rises and then taken over by aliens and then the atom is stuck to a human slave put in a zoo then stuck to an alien boot after they kicked the slave and things continue on
 
 - Story where vampires or other undead are made to do corporate jobs non-stop in windowless or underground rooms
+
+- story from the perspective of a prisoner escaping from his prison cell
+
+- story from the perspective of a prisoner escaping from his prison cell
