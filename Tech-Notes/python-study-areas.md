@@ -12,6 +12,7 @@
 - exception handling and importing libraries
 - decorators
   - https://www.youtube.com/watch?v=vtoXyxcfmUo
+- dunder slots
 
 - OOP
   - polymorphism

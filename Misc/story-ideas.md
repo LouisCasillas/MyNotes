@@ -113,3 +113,5 @@
 - Story where vampires or other undead are made to do corporate jobs non-stop in windowless or underground rooms
 
 - story from the perspective of a prisoner escaping from his prison cell
+
+- A demon or alien species with lots of power is interracting with humans and the human thinks they must be very old to be so powerful but the demon/alien says "Oh no I'm fairly young.  3 of your years."

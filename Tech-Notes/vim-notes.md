@@ -232,6 +232,8 @@
 - search and execute normal commands, this allows you to represent special characters
   - :g/wordtomatch/exe "norm \<s-y>\<s-g>\<s-p>"
     - copy each matching line and paste it at the end of the file
+  - :g/wordtomatch/normal ddggP
+    - delete the line and paste it at the top of the file
 
 ### line navigation commands
 - <number>H

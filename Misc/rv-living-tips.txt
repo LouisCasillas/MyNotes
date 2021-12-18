@@ -18,6 +18,7 @@
         - workampingjobs.com
         - workamper.com
         - https://hiring.amazon.com/our-team/camperforce#/
+        - https://rvlife.com/a-year-to-volunteer/
     - Camp hosting
       - Check people in and out of a site, answering questions, so on.
     - Solar install on RVs
@@ -134,6 +135,13 @@
   - Add a couple gallons of water to the black tank and holding tank treatment
   - Turn off the propane
   - Check all hookups before parking
+
+- Mainteance
+  - Lube window tracks every couple months so they don't stick
+  - Black tank dump sites
+    - https://rvdumpsites.net/
+    - http://sanidumps.com/
+    - https://www.rvdumps.com/map-of-rv-dump-stations/
   
 - YouTube channels
   - https://www.youtube.com/c/FateUnbound/videos
