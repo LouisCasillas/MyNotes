@@ -319,3 +319,7 @@
     - ahrefs.com - keyword research to find most popular searches getting people to a site like Etsy
 
 - Penny stocks
+
+- Bravos - site for people to give each other positive comments and awards
+
+- Website that lets people be phone references or old bosses for people looking for work
