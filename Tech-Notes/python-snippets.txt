@@ -459,3 +459,22 @@ class MyClass:
  Thank you for investigating me!
  >>> repr(y)
  Thank you for investigating me!
+
+- Modifying a global variable
+x = 1
+def modify_me():
+    global x
+    x += 1
+print(x)
+modify_me()
+print(x)
+
+- Use constants
+# use all uppercase variable, constants are just normal variables and can be changed
+PI = 3.1415926
+
+- Force the input of all function parameters as named variables
+def give_me_all(*, x, y):
+    print(x, y)
+    
+give_me_all(x='xxx', y='yyy')
