@@ -13,6 +13,14 @@
   - https://art1lib.org/
 - Cost of living calculator
   - https://www.numbeo.com/cost-of-living/
+
+## Health Links
+- Food calories
+  - https://www.fatsecret.com/
+  - https://www.calorieking.com/
+  - https://your-calories.com/
+- Macro calculator
+  - https://cronometer.com/
  
 ## Youtube
 - Learning tech
