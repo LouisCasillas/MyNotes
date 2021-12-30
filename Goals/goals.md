@@ -4,6 +4,8 @@
 
 - Go hangliding
 
+- Try paramotor
+
 - Run half marathon
 
 - Kayak out to an island
@@ -34,3 +36,10 @@
 - Have a little pet.
 
 - Design and build cyberpunk trailer
+
+- Gain more survival/wilderness living skills
+
+- Create exercise card game
+
+- Find a way to build a computer game that will get people active
+
