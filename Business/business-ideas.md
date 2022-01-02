@@ -326,3 +326,6 @@
 
 - Website with AI fish floating around that people can spend money on to buy, feed, buy stuff for the tank
 
+- vacuum fish that will grab goldballs and shoot them into a bag on the back
+  - signal sending video signal or pure AI?
+  - Fishing line attached to pull back in-case of failure
