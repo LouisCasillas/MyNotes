@@ -329,3 +329,7 @@
 - vacuum fish that will grab goldballs and shoot them into a bag on the back
   - signal sending video signal or pure AI?
   - Fishing line attached to pull back in-case of failure
+
+- website where people can put themselves so other people can checkup on them
+- lonely people, old people, disabled people, whatever
+  - keep track of the last time someone was contacted and show the oldest ones to people to make sure they get contact
