@@ -1,0 +1,15 @@
+# Test Automation
+
+## Tips
+  - Communicate early and often the test automation benefit expectations.
+  - Add linters that identify UI elements that do not have IDs.
+  - Unit tests > Service tests > UI tests
+    - Try to keep tests as close to the code as possible for speed and easy execution of the tests
+    - If there are multiple UI tests on the same feature these can usually be tested once and then have the features tested at the Unit or Service level.  UI tests take longer and are easier to break.
+  - Run tests in parallel
+    - Avoid having tests rely on other tests or change data other tests rely on.  Make each test run in its own thread-safe environment.
+  - Put environment information in files so that tests can be run in different environments without needing to be changed.  The only thing that might need to be changed is the environment files.
+  - Using cloud solutions can make running UI automation tests on many browsers, devices, and versions much easier.
+    - Make sure UI tests can handle elements when in browser mode vs responsive mobile mode.
+    - Appium allows you to write tests that can run on multiple types of mobile devices.
+    

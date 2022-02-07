@@ -22,4 +22,3 @@ Majestic Oaks RV Resort
   
 Oaklawn RV Park
   - Phone: 228-392-1233
-  - Got reservation online

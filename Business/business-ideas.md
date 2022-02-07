@@ -333,3 +333,5 @@
 - website where people can put themselves so other people can checkup on them
 - lonely people, old people, disabled people, whatever
   - keep track of the last time someone was contacted and show the oldest ones to people to make sure they get contact
+
+- program that searches youtube and github and personal websites looking for candidates that match certain jobs in order to get recruiter/placement bonus

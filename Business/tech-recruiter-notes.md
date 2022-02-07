@@ -1,0 +1,3 @@
+# Tech Ruiter Notes
+
+  - 

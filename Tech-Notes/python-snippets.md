@@ -478,3 +478,112 @@ def give_me_all(*, x, y):
     print(x, y)
     
 give_me_all(x='xxx', y='yyy')
+
+- Update dictionary
+x = {'1': 'happy', '2': 'sad', '3': 'indifferent'}
+y = {'3': 'outraged'}
+x.update(y)
+for k, v in x.items():
+    print(k, '-->', v)
+    
+ >>> 1 --> happy
+ >>> 2 --> sad
+ >>> 3 --> outraged
+
+- Add new item to dictionary, if it doesn't exist, return value either way
+x = {'1': 'happy', '2': 'sad', '3': 'indifferent'}
+print(x.setdefault('1', 'sad'))
+ >>> happy
+print(x.setdefault('4', 'excited'))
+ >>> excited
+for k, v in x.items():
+    print(k, '-->', v)
+    
+ >>> 1 --> happy
+ >>> 2 --> sad
+ >>> 3 --> indifferent
+ >>> 4 --> excited
+ 
+- Add lists together
+x = [ 'apple', 'fox', 'apple' ]
+y = [ 13290, 2390 ]
+print(x)
+x.extend(y)
+# or
+# x += y
+print(x)
+ >>> ['apple', 'fox', 'apple']
+ >>> ['apple', 'fox', 'apple', 13290, 2390
+ 
+- pytest look for raised exceptions
+import pytest
+def test_divide_by_zero():
+    with pytest.raises(IndexError) as e:
+        num = []
+        num[3] = 'x'
+
+- pytest run multiple tests through method
+products = [
+  (2, 3, 6),
+  (1, 99, 99) ]
+  
+@pytest.mark.parametrize('a, b, product', products)
+def test_multiplication(a, b, product):
+    assert a * b == product
+    
+- Testing pattern "Arrange-Act-Assert"
+  - Arrange assets for the test.
+    - e.x. Create object
+  - Act by exercising the target behavior.
+    - e.x. Call object methods
+  - Assert that expected outcomes happened.
+    - e.x. assert expected values
+    
+- Pytest command-line options:
+  - --verbose
+  - --quiet
+  - --exitfirst
+    - exit at first failed test
+  - --max-fail=2
+    - stop tests after 2 fails
+  - --junit-xml <report.xml>
+    - output a standard junit style xml results file
+
+- Pytest - Specify a single test function in a single file
+$ python -m pytest tests/test_file.py::test_our_desired_function
+
+- Pytest - Specify tests containing a substring
+$ python -m pytest -k desired
+
+- Pytest - Specify tests marked by a marker
+$ python -m pytest -m <marker>
+
+
+- Pytest - Run simple test on API
+  - for testing REST APIs with YAML look at Tavern: https://tavern.readthedocs.io/en/latest/
+import pytest
+import requests
+
+@pytest.mark.duckduckgo
+def test_duckduckgo_instant_answer_api():
+    url = 'https://api.duckduckgo.com/?q=python+programming&format=json'
+
+    response = requests.get(url)
+    body = response.json()
+
+    assert response.status_code == 200
+    assert 'Python' in body['AbstractText']
+    
+- Helpful pytest plugins
+  - pytest-html
+    - output test results in HTML, use --html=<file> parameter
+    - $ python -m pytest --html=report.html
+  - pytest-cov
+    - show the codebase amount of test coverage
+      - $ python -m pytest --cov=<code directory)
+    - create a full HTML report of the code coverage
+      - $ python -m pytest --cov=<code directory> --cov-report html
+  - pytest-xdist
+    - run tests in parallel
+      - $ python -m pytest -n <number of threads>
+      - note: can distribute test execution across multiple machines using SSH or sockets
