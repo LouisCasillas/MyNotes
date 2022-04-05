@@ -115,3 +115,5 @@
 - story from the perspective of a prisoner escaping from his prison cell
 
 - A demon or alien species with lots of power is interracting with humans and the human thinks they must be very old to be so powerful but the demon/alien says "Oh no I'm fairly young.  3 of your years."
+
+- Two enemy teams trying to fight each other on a bridge and while approaching each other they spot a bomb on the bridge.  Each side yelling and taunting the other while one bomb disposal guy slowly works to remove the bomb.

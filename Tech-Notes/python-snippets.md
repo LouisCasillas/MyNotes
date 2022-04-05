@@ -587,3 +587,5 @@ def test_duckduckgo_instant_answer_api():
     - run tests in parallel
       - $ python -m pytest -n <number of threads>
       - note: can distribute test execution across multiple machines using SSH or sockets
+  - pytest-bdd
+    - helps setup Behavior-Driven Development

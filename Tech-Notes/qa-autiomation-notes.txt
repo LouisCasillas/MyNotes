@@ -12,4 +12,8 @@
   - Using cloud solutions can make running UI automation tests on many browsers, devices, and versions much easier.
     - Make sure UI tests can handle elements when in browser mode vs responsive mobile mode.
     - Appium allows you to write tests that can run on multiple types of mobile devices.
-    
+  - If possible set an SLA for the max amount of time the test suite can take to execute.
+  - Keep track of testing metrics.
+    - How long did regression testing take before autiomation vs after?
+    - How has the automation testing increased Dev speed?  More points per sprint?  Less time spent bug hunting?  Less time fighting fires in production?
+    - How many browsers and devices can you test on now vs after test automation?

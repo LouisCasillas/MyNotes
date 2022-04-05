@@ -43,3 +43,5 @@
 
 - Find a way to build a computer game that will get people active
 
+- Pass law bar exam
+  - California, Vermont, Virginia, Washington - allow potential law students to skip law school entirely. 

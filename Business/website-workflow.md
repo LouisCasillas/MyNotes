@@ -6,6 +6,7 @@
 
 1) Install Vagrant and build the box
     • Vagrant - https://www.vagrantup.com/
+    - Docker - Build environment
 
 2) Install dependencies for tools
     • General tools
@@ -19,11 +20,14 @@
         ◦ Visual Studio Code
             ▪ Plugins?
     • Flat file site generation
-        ◦ Gatsby
-            ▪ GatsbyCLI 
-        ◦ React.js
-            ▪ 30 days with React - https://github.com/fullstackreact/30-days-of-react
-        ◦ Typography.js
+        ◦ Eleventy
+    - UI
+      - Typography.js - Help with site design
+      - CSS Grid - CSS style
+      
+    - Analytics - None on site
+      - Google Search Console - https://search.google.com/search-console/welcome
+
     • CMS
         ◦ NetlifyCMS - https://www.gatsbyjs.org/docs/netlify-cms/
     • Code formatting/Linting
@@ -41,6 +45,7 @@
             ▪ TypeScript
         ◦ CSS
             ▪ Sass	
+             - Bourbon - added tool
     • Unit Testing
         ◦ JS
             ▪ Jest - https://jestjs.io/
@@ -111,6 +116,7 @@ x) Final optimization and testing
                         ▪ https://testmysite.thinkwithgoogle.com/
                         ▪ https://developers.google.com/speed/pagespeed/insights/
                         ▪ https://tools.pingdom.com/
+                        - https://sitechecker.pro/speed-test/
                     ◦ https://developers.google.com/web/fundamentals/performance/rail
                     ◦ https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization/
                     ◦ https://houssein.me/thinking-prpl

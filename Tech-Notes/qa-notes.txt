@@ -1,0 +1,143 @@
+# QA Notes
+
+ - Know thy customer and product.
+   - Know the requirements.
+   - Know the problem boundaries.
+
+ - Value of testers
+   - Testers are the voice of the customer.
+   - Testers add focus to the testing role.
+   - Testers facilitate early clarification of the software expectations.
+   - Testers are continuously testing and looking for areas of improvement.
+   - Testers help find bugs early and get them fixed fast.
+   - Testers ensure that regression testing is a continuous process.
+
+ - Generate tests for each component and type of tests
+   - types of tests
+     - functional
+     - error conditions
+     - boundary conditions
+     - race conditions
+     - safety conditions
+     - network issues / failure rebounds
+     - security
+     - efficiency
+     - performance
+     - endurance
+     - load
+     - volume
+     - scalability
+     - usability
+     - accessibility
+     - localization
+     - internationalization
+     - interoperability
+     
+  - Never give up, there's always more tests.
+  
+  - V-Model of testing
+    - For every step of the SDLC (Software Development Life Cycle) there is a corresponding testing step creating the STLC (Software Test Life Cycle).
+      - Requirement analysis -> User acceptance test plan -> User acceptance testing
+      - Functional specifications -> System test plan -> System testing
+      - High level designs -> Integration test plan -> Integration testing
+      - Detailed Designs/program specification -> Unit test plan -> Unit testing
+      - Code
+      
+  - Iterative software life cycles 
+    - Rapid Application Development
+    - Agile
+    
+  - Testing approaches
+    - Big Bang
+      - Wait until everything is complete to test everything.
+    - Incremental Testing
+      - Test as each feature/module is created.
+        - Top-Down or Bottom-Up
+      - Functional increment
+        - Test as functional requirements are met.
+      - Sandwich
+        - Test both Top-Down and Bottom-Up
+        
+  - Smoke testing
+    - Also known as: Confidence testing, sanity testing, build verification testing (BVT), build acceptance test, intake test
+    - Reveals simple failures severe enough to cause a build to be rejected.
+    
+  - Example test case design
+    - Traceability: unique ID for this test case so it can be referenced elsewhere
+    - Test scenario: Check login functionality
+    - Test case: Check response on entering <valid> agent name and password
+    - Pre-conditions: Application must be installed.
+    - Test steps: 1) Launch application 2) Enter agent name 3) Enter password 4) Click ok button
+    - Test data: agent name: testname, password: password123
+    - Expected result: login should be successful
+    - Post-condition: Time and date of login is stored in the database
+    - Actual results: Login successful (add screenshots or log text)
+    - Pass/Fail: Pass
+    
+  - Optimize number of tests
+    - Equivalence partitioning
+      - Group test input into similar types and only run one test off that type of input
+    - Boundary Value Analysis / Range checking
+      - Test input based around the boundaries of the equivalence partitions
+    - Decision Table Testing
+      - Create a chart of various possible options for a given test and choose a sub-set of these possible options
+  
+  - Initial planning steps - Requirements Analysis
+    - Create initial draft of the functional design document
+    - Planning stage 
+      - Kick off meeting
+        - get everyone on the same page
+      - Preparation stage
+        - go through the document gathering defects, comments, and questions
+      - Review meeting
+        - everyone shares feedback and works to improve the functional design document
+        - important roles
+          - The Moderator
+          - The Author
+          - The Scribe / Recorder
+          - The Reviewers
+      - Re-work and update the functional design document
+      - Follow-up review meeting
+  
+  - Test plan
+    - Determine what is in-scope and out of scope?
+      - In-scope - cross-platform testing, performance testing, functional testing
+      - Out of scope - cross-browser testing, localization testing
+    - Activities
+      - Preparation of test plan/strategy
+      - Test tool selection
+      - Test effort estimation
+      - Create test cases and test data
+      - Create automation scripts
+      - Resource planning and determining roles and responsibilities
+      - Training requirements
+    - Deliverables
+      - Test plan/strategy document
+      - Test scripts + data
+      - Effort estimation document
+    
+  - Risk plan
+    - Project risks and product risks
+      - examples:
+        - Important member of the team leaves suddenly, likelihood: 5, impact: 3, mitigation: cross-training
+        - System doesn't work on expected system: likelihood: 8, impact: 10, mitigation: sanity testing
+        
+  - Incident/Bug report
+    - Defect ID
+    - Severity
+    - Priority
+    - Defect description
+    - Version of the application
+    - Steps to reproduce
+    - Date found
+    - Reference documentation
+    - Detected by
+    - Status
+    - Fixed by
+    - Date closed
+    
+===
+
+
+
+===

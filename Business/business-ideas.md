@@ -335,3 +335,39 @@
   - keep track of the last time someone was contacted and show the oldest ones to people to make sure they get contact
 
 - program that searches youtube and github and personal websites looking for candidates that match certain jobs in order to get recruiter/placement bonus
+
+- website that summarizes Reuters or other general news articles
+
+- Teach Scrum training courses on the weekends
+  - Give test exams and guarantee a studen's money back if they don't pass the exam
+  - https://www.scrumalliance.org/get-certified/cec-certification/become-a-cec
+    - kahooit for class quizzes
+      - https://kahoot.it/
+	  
+- Phone app like Eliza that lets people talk to her and respond so people can have a conversation on their phone.
+  - Allow the app to call the person at a set time and setup a script?
+  
+- Exercise game that is also a gambling machine?  Something that could be sold to casinos.
+
+- Exercise game app
+  - Start with 4 basic exercises.
+    - As experience is gained unlock more advanced exercises.
+	  - For example: lvl 1: pushup, lvl: 10 Typewriter pushup
+  - If the user has been away for a while ask them if they want to restart their progress.
+  - Each attack requires an exercise.
+    - Occasionally attacks will cause critical damage doing 1.5x damage.
+  - Give an option for turn-based vs real-time attacking
+    - Real-time attacking means you have to keep exercising or enemies will hit you as their timed turn comes up.
+  - Combo attacks or special super powers are a combination of exercises.
+  - Walk to next town is a real walk.
+    - For example, 1 mile in-game = 1 minute walking
+  - Difficulty level = Fitness Level
+  - Allow people to enter their own exercises for experience points
+    - For example: Ran 5 miles = 1,000 points
+  - Give bonus points for consistency
+    - 5 day streak adds 1.2x to experience
+  - Randomly mach and compete with other people doing rounds of exercise "to the death"
+  - Video game mode that gives the user an exercise to do after every death/round/chapter/event...
+  - Daily "Boss" (large workout), rank of total time to complete, rank of first to complete?
+  - game metrics that keep people addicted to other mobile games?
+    - use the evil for exercise
