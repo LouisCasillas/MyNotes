@@ -366,8 +366,38 @@
     - For example: Ran 5 miles = 1,000 points
   - Give bonus points for consistency
     - 5 day streak adds 1.2x to experience
-  - Randomly mach and compete with other people doing rounds of exercise "to the death"
+  - Allow people to walk in order to beat enemies.
+    - Goblin is 5 minutes, Wizard is 25 minutes
+	- Bonus points if they are walking quickly, if possible
+	- Make sure to have a pause button so random movement isn't considered walking
+  - Randomly match and compete with other people doing rounds of exercise "to the death"
+    - X did 25 pushups, do 25+x to do x damage to them
   - Video game mode that gives the user an exercise to do after every death/round/chapter/event...
-  - Daily "Boss" (large workout), rank of total time to complete, rank of first to complete?
-  - game metrics that keep people addicted to other mobile games?
-    - use the evil for exercise
+  - Daily "Boss" (large workout) with minions, rank of total time to complete, rank of first to complete?
+  - game metrics that keep people addicted as with other mobile games?
+    - counter from left to right that slows down before showing completion so there is a slight hesitation
+	- send notifications that enemies are taking over
+  - Have a castle (alternative?) that exercise gives points for reinforcement
+    - Have them get raided randomly
+	- "Your town is counting on your protection"
+  - While exercising have the enemy taunting you with epic background music
+  - Have a beastiary for different enemies and include the culture, region, and trivia for the beasts.
+  - Keep track of total reps and time.
+  - Treasure after defeating certain enemies.
+    - Treasure can give you a card to block all damage and take a 5 minute restart
+	- Treasure can double your attack power that turn BUT you will have to do 1.5x reps before the reps count as damage.
+  - Have a version for cyberpunk or ancient china/japan or old west or America's most wanted or ...
+    - Create the system so themes and enemies are easily inserted/changed.
+	- Allow people to easily add their own enemies.
+	  - Name
+	  - Bio
+	  - Link
+	  - Math
+	    - Exercise to damage: 5+(4*d8)
+		  - If you can do this many exercises you "blocked" the damage and the extra you do hits them
+		- Damage they do to you: 9*d2
+	  - Image
+	  - Audio
+	  - HP
+	  - Weaknesses
+	    - Legs do 1.5x damage
