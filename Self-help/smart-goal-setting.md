@@ -1,11 +1,11 @@
 # SMART Goal Setting
 
- - Specific (simple, sensible, significant).
+	- Specific (simple, sensible, significant).
 
- - Measurable (meaningful, motivating).
+	- Measurable (meaningful, motivating).
 
- - Achievable (agreed, attainable).
+	- Achievable (agreed, attainable).
 
- - Relevant (reasonable, realistic and resourced, results-based).
+	- Relevant (reasonable, realistic and resourced, results-based).
 
- - Time bound (time-based, time limited, time/cost limited, timely, time-sensitive).
+	- Time bound (time-based, time limited, time/cost limited, timely, time-sensitive).

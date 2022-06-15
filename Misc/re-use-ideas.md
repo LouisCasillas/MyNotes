@@ -1,16 +1,15 @@
-# re-use ideas
+# Re-use Ideas
 
 ## pill bottles
-  - tried and works well
-    - qutips
-    - lotion
-    - dice holder
+	- tried and works well
+		- qutips
+		- lotion
+		- dice holder
 
-  - to try
-    - mini sewing kit
-    - mini survival kit
-    - mini fire starting kit - cotton swabs with vaseline
-    - center pull yarn-ball
-    - cat toy
-    - waterproof cash stash
-    
+	- to try
+		- mini sewing kit
+		- mini survival kit
+		- mini fire starting kit - cotton swabs with vaseline
+		- center pull yarn-ball
+		- cat toy
+		- waterproof cash stash

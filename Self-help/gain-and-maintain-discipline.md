@@ -1,11 +1,11 @@
 # Discipline
 
-- Less choices
+	- Less choices
 
-- Acknowledge desire
+	- Acknowledge desire
 
-- Assess emotions
+	- Assess emotions
 
-- Single task
+	- Single task
 
-- Exercise
+	- Exercise

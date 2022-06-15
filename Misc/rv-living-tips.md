@@ -1,154 +1,155 @@
 # RV Tips
+	- TODO: Notes were summarized from other sources.  Edit list with personal experience.
 
-- Insulation
-  - All flaps and water/waste entry/exit points should be insulated.
-  - Put skirting all around the trailer at the bottom.
-  
-- Tires
-  - Cover tires
-    - Spray first
-  
-- Camping spots
-  - Free camping
-    - Work Camping
-      - Should provide a site with full hookups for free in exchange for labor
-      - Look at national parks
-      - Amazon working force
-      - sites:
-        - workampingjobs.com
-        - workamper.com
-        - https://hiring.amazon.com/our-team/camperforce#/
-        - https://rvlife.com/a-year-to-volunteer/
-    - Camp hosting
-      - Check people in and out of a site, answering questions, so on.
-    - Solar install on RVs
-      - Stay on people's property while you install solar on their RV
-  - Locate spots
-    - sites:
-      - thedyrt.com
-      - https://todayissomeday.net/blog/findingcoecamping
-  - Parking group club
-    - https://harvesthosts.com/
+	- Insulation
+		- All flaps and water/waste entry/exit points should be insulated.
+		- In cold weather, put skirting all around the trailer at the bottom.
 
-- Supplies to have
-  - Plastic gloves for dumping
-  - Fire extinguishers - spray not gas
-  - Checklist for setup and break down
-  - Tire pressure monitor
-  - Safe-t-plus - https://www.safe-t-plus.com/
-  - Surge Protector EMS
-    - https://www.amazon.com/gp/product/B01N9MOY7B/ref=as_li_tl?camp=1789&creative=9325&creativeASIN=B01N9MOY7B&ie=UTF8&linkCode=as2&linkId=b78a15b86a086b7c8c2ca182f0838a0e&tag=youmeandtherv-20&th=1
-    - Power Watchdog
-    - Hughes Auto former
-    
-  - Propane shut off valve
-  - Propane fill meter
-  - Hitch lock
-  - Fake cameras
-  - Roller shades w/ day shade
-  - Keyless entry for door
-  - Tumbler locks for storage doors
-  - Cell signal booster
-    - Solid RF
-    - 5G
-  - Toilet paper
-    - Purex
-  - Flexible water hose
-  - Portable washing machine or manually wash
-  - Read camera
-  - Motion sensor toilet bowl light
-  - Carbon monoxide / Fire / Propane alarms
-  - Sewer line stabilizer/support
-    - Could use a split PVC pipe
-  - Tire chocks
-  - Stove Top Cover
-  - 12v DC dimmer
-  - Screen door cross bar
-  - Shovel
-  - Releasable Zip Ties
-  - 15A Male to 50A Female Adapter
-  - 15A, 30A, 50A adapter
-  - Drill
-  - Cordless vacuum
-  - Berkey Filter
-  - Extra fuses
-  - Tow straps
-  - Heavy duty rope
-  - Heavy duty extension cord
-  - Multitool
-  - Tape - Duct and electrical
-  - Misc screws
-  - Super glue
-  - Leveler
-  - Socket set
-  - Bungee coards
-  - Saw
-  - First aid kit
-  - Planks of wood to get tires level
-  - Heated drinking water hose
-  - Water pressure regulator
-  - Water right angle connector
-  - Black water clear hose connector into the sewer drain
-  - Black water rubber sewer hole stop
-  - https://todayissomeday.net/blog/25-favorite-rv-gadgets-to-make-rv-living-better
+	- Tires
+		- Cover tires
+			- Spray first
 
-- Cleaning
-  - Per Year
-    - Clean out all propane lines
+	- Camping spots
+		- Free camping
+			- Work Camping
+				- Should provide a site with full hookups for free in exchange for labor
+				- Look at national parks
+				- Amazon working force
+				- sites:
+					- workampingjobs.com
+					- workamper.com
+					- https://hiring.amazon.com/our-team/camperforce#/
+					- https://rvlife.com/a-year-to-volunteer/
+			- Camp hosting
+				- Check people in and out of a site, answering questions, so on.
+			- Solar install on RVs
+				- Stay on people's property while you install solar on their RV
+		- Locate spots
+			- sites:
+				- thedyrt.com
+				- https://todayissomeday.net/blog/findingcoecamping
+		- Parking group club
+			- https://harvesthosts.com/
 
-- Important upgrades
-  - Better ventilation fan
-    - Get a cover so it can be run while it's raining
-    - Suggested: MaxxFan
-  - Combine grey water and black tank
-  - One-way valve for the hot water line so cold water can't back flow into the hot water tank
-  - IF using A/C off a generator
-    - Micro-Air EasyStart 36
-  - Seal roof with Eternabond
+	- Supplies to have
+		- Plastic gloves for dumping
+		- Fire extinguishers - spray not gas
+		- Checklist for setup and break down
+		- Tire pressure monitor
+		- Safe-t-plus - https://www.safe-t-plus.com/
+		- Surge Protector EMS
+			- https://www.amazon.com/gp/product/B01N9MOY7B/ref=as_li_tl?camp=1789&creative=9325&creativeASIN=B01N9MOY7B&ie=UTF8&linkCode=as2&linkId=b78a15b86a086b7c8c2ca182f0838a0e&tag=youmeandtherv-20&th=1
+			- Power Watchdog
+			- Hughes Auto former
 
-- Buying
-  - Inspection - National Recreational Vehicle Inspectors Association (NRVIA)
-- Insurance
-  - Things to look for in the policy
-    - Physical damage option: Gap insurance or total loss replacement
-    - Replacement cost personal effects
-    - Agreed Value
-    - 
-  - Get a full-time policy
-    - Progressive
-    - Good Sam (National General) 
-    - Geico
-    - All-State
-    - Foremost
+		- Propane shut off valve
+		- Propane fill meter
+		- Hitch lock
+		- Fake cameras
+		- Roller shades w/ day shade
+		- Keyless entry for door
+		- Tumbler locks for storage doors
+		- Cell signal booster
+			- Solid RF
+			- 5G
+		- Toilet paper
+			- Purex
+		- Flexible water hose
+		- Portable washing machine or manually wash
+		- Read camera
+		- Motion sensor toilet bowl light
+		- Carbon monoxide / Fire / Propane alarms
+		- Sewer line stabilizer/support
+			- Could use a split PVC pipe
+		- Tire chocks
+		- Stove Top Cover
+		- 12v DC dimmer
+		- Screen door cross bar
+		- Shovel
+		- Releasable Zip Ties
+		- 15A Male to 50A Female Adapter
+		- 15A, 30A, 50A adapter
+		- Drill
+		- Cordless vacuum
+		- Berkey Filter
+		- Extra fuses
+		- Tow straps
+		- Heavy duty rope
+		- Heavy duty extension cord
+		- Multitool
+		- Tape - Duct and electrical
+		- Misc screws
+		- Super glue
+		- Leveler
+		- Socket set
+		- Bungee coards
+		- Saw
+		- First aid kit
+		- Planks of wood to get tires level
+		- Heated drinking water hose
+		- Water pressure regulator
+		- Water right angle connector
+		- Black water clear hose connector into the sewer drain
+		- Black water rubber sewer hole stop
+		- https://todayissomeday.net/blog/25-favorite-rv-gadgets-to-make-rv-living-better
 
-- Misc
-  - Keep black water closed so solids can degrade
-  - Before flushing black water close the grey water and allow black water to mix with black water
-  
-- Learn
-  - Black tank
-    - https://www.youtube.com/watch?v=mmrrOb4sOb8
-  - Battery
-    - https://www.youtube.com/watch?v=ZJD19RogRtg
+	- Cleaning
+		- Per Year
+			- Clean out all propane lines
 
-- Before a journey
-  - Add a couple gallons of water to the black tank and holding tank treatment
-  - Turn off the propane
-  - Check all hookups before parking
+	- Important upgrades
+		- Better ventilation fan
+			- Get a cover so it can be run while it's raining
+			- Suggested: MaxxFan
+		- Combine grey water and black tank
+		- One-way valve for the hot water line so cold water can't back flow into the hot water tank
+		- IF using A/C off a generator
+			- Micro-Air EasyStart 36
+		- Seal roof with Eternabond
 
-- Mainteance
-  - Lube window tracks every couple months so they don't stick
-  - Black tank dump sites
-    - https://rvdumpsites.net/
-    - http://sanidumps.com/
-    - https://www.rvdumps.com/map-of-rv-dump-stations/
-  
-- YouTube channels
-  - https://www.youtube.com/c/FateUnbound/videos
-  - https://www.youtube.com/watch?v=wJ31KMJWJVA
-  - https://www.youtube.com/channel/UCC3X81KrKId1Yvvl0Bs_VoA
-  - https://www.youtube.com/channel/UCwh2SF7McSUf1GVFVk0nP8w
-  - https://www.youtube.com/c/TravelswithDelaney/videos
-  - https://www.youtube.com/c/AccessRVSaltLakeCity/videos
-  - https://www.youtube.com/c/RVTipsTravels/videos
-  - https://www.youtube.com/channel/UCuhIeTBsCysER-73DnGEegQ
+	- Buying
+		- Inspection - National Recreational Vehicle Inspectors Association (NRVIA)
+	- Insurance
+		- Things to look for in the policy
+			- Physical damage option: Gap insurance or total loss replacement
+			- Replacement cost personal effects
+			- Agreed Value
+			- 
+		- Get a full-time policy
+			- Progressive
+			- Good Sam (National General) 
+			- Geico
+			- All-State
+			- Foremost
+
+	- Misc
+		- Keep black water closed so solids can degrade
+		- Before flushing black water close the grey water and allow black water to mix with black water
+
+	- Learn
+		- Black tank
+			- https://www.youtube.com/watch?v=mmrrOb4sOb8
+		- Battery
+			- https://www.youtube.com/watch?v=ZJD19RogRtg
+
+	- Before a journey
+		- Add a couple gallons of water to the black tank and holding tank treatment
+		- Turn off the propane
+		- Check all hookups before parking
+
+	- Mainteance
+		- Lube window tracks every couple months so they don't stick
+		- Black tank dump sites
+			- https://rvdumpsites.net/
+			- http://sanidumps.com/
+			- https://www.rvdumps.com/map-of-rv-dump-stations/
+
+	- YouTube channels
+		- https://www.youtube.com/c/FateUnbound/videos
+		- https://www.youtube.com/watch?v=wJ31KMJWJVA
+		- https://www.youtube.com/channel/UCC3X81KrKId1Yvvl0Bs_VoA
+		- https://www.youtube.com/channel/UCwh2SF7McSUf1GVFVk0nP8w
+		- https://www.youtube.com/c/TravelswithDelaney/videos
+		- https://www.youtube.com/c/AccessRVSaltLakeCity/videos
+		- https://www.youtube.com/c/RVTipsTravels/videos
+		- https://www.youtube.com/channel/UCuhIeTBsCysER-73DnGEegQ
